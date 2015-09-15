@@ -1,0 +1,49 @@
+.feat-cat-entry  {
+  font-size: 12px;
+  padding: 0 !important;
+}
+.feat-cat-meta {
+	clear: both;
+	height: auto;
+	width: auto;
+	display: block;
+	margin: 0px 0 10px 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dbdbdb;
+    overflow: hidden;
+}
+.fi {
+  border: 1px solid #e0d0c3;
+  padding: 5px;
+  background: #1d7373;
+  margin: 5px 15px 0 0 !important;
+}
+.fmeta {
+  color: #9c9c9c;
+  font-size: 11px;
+}
+.fcomm {
+  background: url(../images/fcomm.png) no-repeat scroll center;
+  display: inline-block;
+  width: 38px;
+  height: 23px;
+  padding-top: 3px;
+  text-align: center;
+}
+a.fcomm, a.fcomm:visited {
+  color: #53bcbc !important;
+  text-shadow: 1px 0 1px #063232;
+}
+.feat-cat-meta h4 {
+  margin: 0px 0 0 0;
+  font-weight: normal;
+}
+.feat-cat-meta h4 a, .feat-cat-meta h4 a:visited {
+  color: #175b5b !important;
+  text-shadow: 1px 0 1px #3F9998;
+  font-size: 12px;
+  font-family: Arial !important;
+}
+.clearfix {
+  clear: both;
+}

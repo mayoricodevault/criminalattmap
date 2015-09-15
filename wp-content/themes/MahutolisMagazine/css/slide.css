@@ -1,0 +1,124 @@
+#Container {
+    clear: both;
+	width:960px;
+    padding: 0px;
+	position:relative;
+    top: -2px;
+    margin: 0 auto;
+    overflow: hidden;
+    height: 465px;
+    border-top: 0;
+}
+.clrBOTH {
+	clear:both
+}
+#tabs {
+    height: 465px;
+    overflow: hidden;
+}
+.feature p {
+	font-size: 12px;
+	color: #7a7a7a;
+    display: block;
+    line-height: 21px;
+}
+.feature h2 {
+	font-size: 21px;
+	font-weight:normal;
+    line-height: 25px;
+	margin-bottom:15px;
+}
+.titlesl a, .titlesl a:visited {
+  color: #666666 !important;
+}
+.bigimg {
+	margin:0 0px 0 0;
+    padding: 0px;
+    border: 0;
+}
+#tabby {
+clear: both;
+width: 910px;
+background: #175b5b;
+position:absolute;
+bottom:0px;
+left: 0;
+padding: 20px 25px;
+}
+#tabby li {
+  float: left;
+  margin: 0 16px 0 0;
+  background: #1d7373;
+  padding: 5px;
+}
+*+html #tabby li {
+  padding-bottom: 3px !important;
+}
+
+
+/* Tabs
+----------------------------------*/
+.ui-tabs {
+    padding: 0em;
+    zoom: 1;
+	z-index: 100;
+}
+
+.ui-tabs .ui-tabs-nav {
+    list-style: none;
+    position: relative;
+    padding: 0em 0em 0;
+}
+
+.ui-tabs .ui-tabs-nav li {
+    position: relative;
+    float: left;
+    border-bottom-width: 0 !important;
+    margin-top:5px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+    padding: 0;
+}
+
+.ui-tabs .ui-tabs-nav li a {
+    float: left;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected {
+
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a {
+    cursor: text;
+}
+
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a {
+    cursor: pointer;
+}
+ /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs .ui-tabs-panel {
+    padding: 0em 0em;
+    display: block;
+    border-width: 0;
+    background: none;
+}
+
+.ui-tabs .ui-tabs-hide {
+    display: none !important;
+}
+.ui-state-active img {
+  background: #235d90;
+}
+.slwrap {
+  width: 960px;
+  padding: 0px;
+  height: 465px;
+  overflow: hidden;
+}
+.item6 {
+  margin-right: 0 !important;
+}
+.item7, .item7, .item8, .item9, .item10 {
+  display: none;
+}

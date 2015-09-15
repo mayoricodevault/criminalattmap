@@ -1,0 +1,6421 @@
+# Copyright (C) 2014 AppThemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vantage 1.3.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-31 10:12:22+00:00\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: AppThemes\n"
+"Language-Team: AppThemes\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2;_x:1,2c;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:1,2,3c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:3
+msgid "Sorry, Page Not Found"
+msgstr ""
+
+#: 404.php:7
+msgid ""
+"The page or listing you are trying to reach no longer exists or has expired."
+msgstr ""
+
+#: archive-event.php:8 archive-event.php:11
+msgid "Events - %s"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: archive-event.php:13 home-events-loop.php:6
+#: includes/events/admin/pricing.php:33 includes/events/admin/settings.php:52
+#: includes/events/dashboard.php:171 includes/events/dashboard.php:199
+#: includes/events/load.php:204 includes/events/load.php:215
+#: includes/events/template-tags.php:351
+msgid "Events"
+msgstr ""
+
+#: archive-event.php:28
+msgid "Events found for \"%s\" near \"%s\""
+msgstr ""
+
+#: archive-event.php:38 archive-listing.php:32
+#: examples/vantage-child/archive-listing.php:32 home-events-loop.php:24
+#: va-home.php:28
+msgid "Featured"
+msgstr ""
+
+#: archive-event.php:52
+msgid "Sorry, no events were found for \"%s\" near \"%s\""
+msgstr ""
+
+#: archive-event.php:58 archive-listing.php:50
+#: examples/vantage-child/archive-listing.php:50
+msgid "category"
+msgstr ""
+
+#: archive-event.php:60 archive-listing.php:50
+#: examples/vantage-child/archive-listing.php:50
+msgid "tag"
+msgstr ""
+
+#: archive-event.php:62
+msgid "date"
+msgstr ""
+
+#: archive-event.php:65
+msgid "Sorry there are no events for %s \"%s\""
+msgstr ""
+
+#: archive-event.php:69
+msgid "Sorry there are no events for date \"%s\""
+msgstr ""
+
+#: archive-listing.php:8 va-home.php:8
+msgid "Business Listings - %s"
+msgstr ""
+
+#: archive-listing.php:10 va-home.php:10
+msgid "Business Listings"
+msgstr ""
+
+#: archive-listing.php:22 examples/vantage-child/archive-listing.php:22
+msgid "Listings found for \"%s\" near \"%s\""
+msgstr ""
+
+#: archive-listing.php:46 examples/vantage-child/archive-listing.php:46
+msgid "Sorry, no listings were found for \"%s\" near \"%s\""
+msgstr ""
+
+#: archive-listing.php:50 examples/vantage-child/archive-listing.php:50
+msgid "Sorry there are no listings for %s \"%s\""
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: categories-list-event.php:7 includes/events/load.php:267
+#: includes/events/load.php:278 includes/events/views.php:688
+msgid "Event Categories"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: categories-list-listing.php:7 includes/core.php:111
+msgid "Listing Categories"
+msgstr ""
+
+#: claim-listing-categories.php:14 form-listing.php:47 includes/core.php:112
+#: renew-listing-categories.php:13
+msgid "Listing Category"
+msgid_plural "Listing Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: claim-listing-categories.php:20 form-event.php:78 form-listing.php:53
+#: includes/core.php:122 includes/views.php:157 includes/widgets.php:340
+#: renew-listing-categories.php:19 sidebar.php:21
+msgid "Categories"
+msgstr ""
+
+#: claim-listing-categories.php:22 form-event.php:80 form-listing.php:55
+#: renew-listing-categories.php:21
+msgid "Categories (choose unlimited categories)"
+msgstr ""
+
+#: claim-listing-categories.php:24 form-event.php:82 form-listing.php:57
+#: renew-listing-categories.php:23
+msgid "Category (choose %d category)"
+msgid_plural "Categories (choose %d categories)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: claim-listing.php:15
+msgid "So, you'd like to claim \"%s\"?"
+msgstr ""
+
+#: claim-listing.php:18
+msgid ""
+"If you are the owner to this business, you may proceed with claiming this "
+"listing by "
+msgstr ""
+
+#: claim-listing.php:18
+msgid "Logging in"
+msgstr ""
+
+#: claim-listing.php:20
+msgid " or "
+msgstr ""
+
+#: claim-listing.php:21
+msgid "Registering for an account"
+msgstr ""
+
+#: claim-listing.php:23
+msgid ", to begin the claiming process."
+msgstr ""
+
+#: claim-listing.php:25
+msgid ""
+"If you are the owner to this business, you may proceed with claiming this "
+"listing by clicking the continue button below to begin the claiming process."
+msgstr ""
+
+#: claim-listing.php:30 includes/template-tags.php:576
+#: purchase-event-existing.php:42 purchase-event-new.php:54
+#: purchase-listing-existing-planless.php:80 purchase-listing-existing.php:96
+#: purchase-listing-new.php:88 renew-listing.php:22
+msgid "Continue"
+msgstr ""
+
+#: comments-event.php:10 comments.php:33 comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: comments-event.php:11 comments.php:34 comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments-event.php:12 comments.php:35 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments-event.php:17 comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:26
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: content-claimed-listing.php:16 content-event.php:43
+#: content-listing-expired.php:17 content-listing.php:53
+#: content-renew-listing.php:16 includes/files.php:522 includes/images.php:253
+msgid "Description:"
+msgstr ""
+
+#: content-event.php:16 content-listing.php:39 single-event.php:104
+#: single-listing.php:85
+msgid "Updated:"
+msgstr ""
+
+#: content-event.php:17 single-event.php:12 single-listing.php:12
+msgid "Added by %s"
+msgstr ""
+
+#: content-event.php:43 content-listing.php:53
+msgid "Read more..."
+msgstr ""
+
+#: content-listing-expired.php:20
+msgid "This listing has expired."
+msgstr ""
+
+#: content-listing-expired.php:21
+msgid "Renew Listing!"
+msgstr ""
+
+#: content-listing.php:20 content-listing.php:26 single-listing.php:20
+msgid "Add your review"
+msgstr ""
+
+#: create-listing-no-auth.php:3
+msgid ""
+"To create a listing, you need to <a href=\"%s\">login</a> or <a href=\"%s"
+"\">register</a> first."
+msgstr ""
+
+#: create-listing-no-auth.php:9
+msgid "It seems you do not have permission to create listings."
+msgstr ""
+
+#: dashboard-claimed-listings.php:37
+msgid "You have no claimed listings at this time. "
+msgstr ""
+
+#: dashboard-event-comments.php:27 dashboard-reviews.php:27
+msgid "Reviewed on %s."
+msgstr ""
+
+#: dashboard-event-comments.php:28
+msgid " #%d of %d event_comments"
+msgstr ""
+
+#: dashboard-event-comments.php:35
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#: dashboard-event-comments.php:39 dashboard-reviews.php:39
+#: framework/app-plupload/app-plupload.php:101
+msgid "Delete"
+msgstr ""
+
+#: dashboard-event-comments.php:54
+msgid "You have no event comments."
+msgstr ""
+
+#: dashboard-event-comments.php:56
+msgid "%s has no event comments."
+msgstr ""
+
+#: dashboard-event-favorites.php:21
+msgid "You have no favorite events. "
+msgstr ""
+
+#: dashboard-event-favorites.php:23
+msgid "%s has no favorite events."
+msgstr ""
+
+#: dashboard-events-attending.php:21
+msgid "You are not attending any events at this time. "
+msgstr ""
+
+#: dashboard-events-attending.php:23
+msgid "%s is not attending any events."
+msgstr ""
+
+#: dashboard-events.php:28
+msgid "You have no events at this time. "
+msgstr ""
+
+#: dashboard-events.php:28
+msgid "Create an event"
+msgstr ""
+
+#: dashboard-events.php:30
+msgid "%s has no events."
+msgstr ""
+
+#: dashboard-favorites.php:21
+msgid "You have no favorites listings. "
+msgstr ""
+
+#: dashboard-favorites.php:23
+msgid "%s has no favorite listings."
+msgstr ""
+
+#: dashboard-listings.php:28
+msgid "You have no listings at this time. "
+msgstr ""
+
+#: dashboard-listings.php:28
+msgid "Click Here"
+msgstr ""
+
+#: dashboard-listings.php:28
+msgid " to add a business listing now."
+msgstr ""
+
+#: dashboard-listings.php:30
+msgid "%s has no listings."
+msgstr ""
+
+#: dashboard-reviews.php:28
+msgid " #%d of %d Reviews"
+msgstr ""
+
+#: dashboard-reviews.php:35
+msgid "Are you sure you want to delete this review?"
+msgstr ""
+
+#: dashboard-reviews.php:54
+msgid "You have no reviews."
+msgstr ""
+
+#: dashboard-reviews.php:56
+msgid "%s has no reviews."
+msgstr ""
+
+#: dashboard-setup.php:8
+msgid "%s's %s"
+msgstr ""
+
+#: edit-profile.php:20
+msgid "Update Your Profile"
+msgstr ""
+
+#: edit-profile.php:32 framework/templates/form-login.php:7
+#: framework/templates/form-registration.php:8
+msgid "Username:"
+msgstr ""
+
+#: edit-profile.php:38
+msgid "Display Name:"
+msgstr ""
+
+#: edit-profile.php:44 framework/templates/form-registration.php:15
+msgid "Email:"
+msgstr ""
+
+#: edit-profile.php:47
+msgid "Make Public?:"
+msgstr ""
+
+#: edit-profile.php:59
+msgid "Website:"
+msgstr ""
+
+#: edit-profile.php:65
+msgid "About Me:"
+msgstr ""
+
+#: edit-profile.php:74
+msgid "New Password:"
+msgstr ""
+
+#: edit-profile.php:74
+msgid "Leave this field blank unless you would like to change your password."
+msgstr ""
+
+#: edit-profile.php:80 framework/templates/form-registration.php:29
+msgid "Password Again:"
+msgstr ""
+
+#: edit-profile.php:80
+msgid "Type your new password again."
+msgstr ""
+
+#: edit-profile.php:86
+msgid "Your password should be at least seven characters long."
+msgstr ""
+
+#: edit-profile.php:87 framework/templates/form-password-reset.php:18
+#: framework/templates/form-registration.php:35
+msgid "Strength indicator"
+msgstr ""
+
+#: edit-profile.php:94
+msgid "Update Profile"
+msgstr ""
+
+#: examples/vantage-child/archive-listing.php:8
+msgid "Businesses - %s"
+msgstr ""
+
+#: examples/vantage-child/archive-listing.php:10
+#: includes/events/template-tags.php:350
+msgid "Businesses"
+msgstr ""
+
+#: footer.php:18
+msgid "WordPress Directory Theme"
+msgstr ""
+
+#: form-event.php:16 form-listing.php:16
+msgid "Essential info"
+msgstr ""
+
+#: form-event.php:19 form-listing.php:19
+#: framework/admin/class-attachments-metabox.php:388
+#: includes/custom-forms/form-builder.php:60
+msgid "Title"
+msgstr ""
+
+#: form-event.php:29 form-listing.php:29
+msgid "Address (street nr., street, city, state, country)"
+msgstr ""
+
+#: form-event.php:32 form-listing.php:32
+msgid "Find on map"
+msgstr ""
+
+#: form-event.php:47 includes/events/admin/event-single.php:141
+msgid "Event Location"
+msgstr ""
+
+#: form-event.php:53 includes/events/admin/event-single.php:146
+msgid "Event Location URL"
+msgstr ""
+
+#: form-event.php:59 includes/events/admin/event-single.php:151
+msgid "Event Cost"
+msgstr ""
+
+#: form-event.php:65
+msgid "Event Dates and Times"
+msgstr ""
+
+#: form-event.php:73 includes/events/load.php:268
+msgid "Event Category"
+msgid_plural "Event Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: form-event.php:91 includes/events/custom-forms.php:36
+msgid "Event Files"
+msgstr ""
+
+#: form-event.php:100 form-listing.php:76
+msgid "Contact info"
+msgstr ""
+
+#: form-event.php:103 form-listing.php:79
+#: includes/admin/listing-single.php:318
+#: includes/custom-post-type-helper.php:384
+#: includes/events/admin/event-single.php:156
+msgid "Phone Number"
+msgstr ""
+
+#: form-event.php:109 form-listing.php:85
+#: includes/admin/listing-single.php:323
+#: includes/custom-post-type-helper.php:385
+#: includes/events/admin/event-single.php:161 single-event.php:68
+#: single-listing.php:37
+msgid "Website"
+msgstr ""
+
+#: form-event.php:116 form-listing.php:92 framework/kernel/social.php:110
+#: includes/admin/listing-single.php:328 includes/core.php:315
+#: includes/events/admin/event-single.php:166 single-event.php:79
+#: single-listing.php:59
+msgid "Twitter"
+msgstr ""
+
+#: form-event.php:123 form-listing.php:99 framework/kernel/social.php:106
+#: includes/admin/listing-single.php:333 includes/core.php:316
+#: includes/events/admin/event-single.php:171 single-event.php:76
+#: single-listing.php:56
+msgid "Facebook"
+msgstr ""
+
+#: form-event.php:130 form-listing.php:106
+msgid "Additional info"
+msgstr ""
+
+#: form-event.php:133
+msgid "Event Images"
+msgstr ""
+
+#: form-event.php:138
+msgid "Event Description"
+msgstr ""
+
+#: form-event.php:143 form-listing.php:119 includes/core.php:157
+#: includes/events/load.php:313
+msgid "Tags"
+msgstr ""
+
+#: form-listing.php:67 includes/custom-forms.php:41
+msgid "Listing Files"
+msgstr ""
+
+#: form-listing.php:109
+msgid "Listing Images"
+msgstr ""
+
+#: form-listing.php:114
+msgid "Business Description"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: form-login.php:10 framework/includes/views-login.php:68
+#: framework/templates/form-login.php:20 includes/admin-bar.php:19
+#: includes/admin-bar.php:45
+msgid "Login"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: form-password-recovery.php:7 framework/includes/views-login.php:214
+msgid "Password Recovery"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: form-password-reset.php:7 framework/includes/views-login.php:351
+msgid "Password Reset"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: form-registration.php:7 framework/includes/views-login.php:454
+#: framework/kernel/functions.php:301
+#: framework/templates/form-registration.php:43 includes/admin-bar.php:65
+msgid "Register"
+msgstr ""
+
+#: form-registration.php:18
+msgid "User registration has been disabled."
+msgstr ""
+
+#: form-review-reply.php:6
+msgid "Your Reply"
+msgstr ""
+
+#: form-review-reply.php:6 form-review.php:6 form-review.php:11
+msgid "required"
+msgstr ""
+
+#: form-review-reply.php:8
+msgid "Submit Reply"
+msgstr ""
+
+#: form-review.php:6
+msgid "Rating"
+msgstr ""
+
+#: form-review.php:11
+msgid "Review"
+msgstr ""
+
+#: form-review.php:15
+msgid "Submit Review"
+msgstr ""
+
+#: framework/admin/class-attachments-metabox.php:340
+msgid "Are you sure you want to un-attach this media item from this post?"
+msgstr ""
+
+#: framework/admin/class-attachments-metabox.php:387
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/admin/class-attachments-metabox.php:389
+msgid "Upload Date"
+msgstr ""
+
+#: framework/admin/class-attachments-metabox.php:390
+msgid "Dimensions"
+msgstr ""
+
+#: framework/admin/class-attachments-metabox.php:391
+msgid "Detach/Sort"
+msgstr ""
+
+#: framework/admin/class-attachments-metabox.php:417
+msgid "Add Media Attachment"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:15 includes/admin-bar.php:107
+#: includes/views.php:519
+msgid "Dashboard"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:23
+msgid "Latest News"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:24
+msgid "Tutorials"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:25
+msgid "From the Marketplace"
+msgstr ""
+
+#: framework/admin/class-meta-box.php:32
+#: framework/admin/class-tabs-page.php:160
+msgid "Help"
+msgstr ""
+
+#: framework/admin/class-search-index.php:22
+#: framework/admin/class-search-index.php:23
+msgid "Search Index Updater"
+msgstr ""
+
+#: framework/admin/class-search-index.php:60
+#: framework/admin/class-search-index.php:135
+msgid "Search Index"
+msgstr ""
+
+#: framework/admin/class-search-index.php:72
+#: framework/admin/class-search-index.php:198
+msgid "The Search Index is now completely built."
+msgstr ""
+
+#: framework/admin/class-search-index.php:75
+#: framework/admin/class-search-index.php:82
+msgid "Delete Search Index"
+msgstr ""
+
+#: framework/admin/class-search-index.php:80
+msgid ""
+"WARNING: You are about to completely delete search index. Are you sure you "
+"want to proceed?"
+msgstr ""
+
+#: framework/admin/class-search-index.php:84
+msgid "Do you wish to completely delete search index?"
+msgstr ""
+
+#: framework/admin/class-search-index.php:85
+msgid "Once you do this you will be able to recreate it."
+msgstr ""
+
+#: framework/admin/class-search-index.php:86
+msgid "Use it only if you made some major changes to what should be indexed."
+msgstr ""
+
+#: framework/admin/class-search-index.php:100
+msgid "The Search Index is now being build..."
+msgstr ""
+
+#: framework/admin/class-search-index.php:108
+msgid "Updating speed"
+msgstr ""
+
+#: framework/admin/class-search-index.php:112
+msgid "Regular"
+msgstr ""
+
+#: framework/admin/class-search-index.php:113
+msgid "Faster"
+msgstr ""
+
+#: framework/admin/class-search-index.php:114
+msgid "Fast"
+msgstr ""
+
+#: framework/admin/class-search-index.php:115
+msgid "Fastest"
+msgstr ""
+
+#: framework/admin/class-search-index.php:118
+msgid ""
+"This let you choose speed of updating index. If you are not on dedicated "
+"server use the Regular option."
+msgstr ""
+
+#: framework/admin/class-search-index.php:121
+#: framework/admin/class-search-index.php:127
+msgid "Update Search Index"
+msgstr ""
+
+#: framework/admin/class-search-index.php:190
+msgid "Sorry, only post method allowed."
+msgstr ""
+
+#: framework/admin/class-search-index.php:194
+msgid "Sorry, invalid request."
+msgstr ""
+
+#: framework/admin/class-search-index.php:205
+msgid "Building Search Index has run."
+msgstr ""
+
+#: framework/admin/class-system-info.php:19
+#: framework/admin/class-system-info.php:20
+#: framework/admin/class-system-info.php:82
+msgid "System Info"
+msgstr ""
+
+#: framework/admin/class-system-info.php:83
+#: framework/admin/class-system-info.php:387
+msgid "Cron Jobs"
+msgstr ""
+
+#: framework/admin/class-system-info.php:93
+msgid "Theme Info"
+msgstr ""
+
+#: framework/admin/class-system-info.php:96
+msgid "Theme Name"
+msgstr ""
+
+#: framework/admin/class-system-info.php:105
+msgid "Theme Version"
+msgstr ""
+
+#: framework/admin/class-system-info.php:118
+msgid "WordPress Info"
+msgstr ""
+
+#: framework/admin/class-system-info.php:121
+msgid "Home URL"
+msgstr ""
+
+#: framework/admin/class-system-info.php:130
+msgid "Site URL"
+msgstr ""
+
+#: framework/admin/class-system-info.php:139
+msgid "Theme Path"
+msgstr ""
+
+#: framework/admin/class-system-info.php:148
+msgid "WP Version"
+msgstr ""
+
+#: framework/admin/class-system-info.php:154
+msgid "Multisite"
+msgstr ""
+
+#: framework/admin/class-system-info.php:157
+msgid "WP Memory Limit"
+msgstr ""
+
+#: framework/admin/class-system-info.php:166
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: framework/admin/class-system-info.php:175
+msgid "WP Debug Mode"
+msgstr ""
+
+#: framework/admin/class-system-info.php:181
+#: framework/admin/class-system-info.php:190
+#: framework/admin/class-system-info.php:199
+#: framework/admin/class-system-info.php:278
+#: framework/admin/class-system-info.php:287
+#: framework/admin/class-system-info.php:303
+#: framework/admin/class-system-info.php:328
+#: framework/admin/class-system-info.php:337
+#: framework/admin/class-system-info.php:346
+#: framework/admin/class-system-info.php:355 includes/admin/featured.php:66
+#: includes/admin/listing-single.php:163 includes/admin/listing-single.php:213
+#: includes/admin/listing-single.php:580 includes/admin/settings.php:86
+#: includes/admin/settings.php:93 includes/admin/settings.php:100
+#: includes/admin/settings.php:203 includes/admin/settings.php:211
+#: includes/admin/settings.php:313 includes/admin/settings.php:320
+#: includes/events/admin/event-single.php:481
+#: includes/events/admin/event-single.php:562
+#: includes/events/admin/settings.php:61 includes/events/admin/settings.php:74
+#: includes/events/admin/settings.php:81
+#: includes/events/admin/settings.php:207
+msgid "Yes"
+msgstr ""
+
+#: framework/admin/class-system-info.php:181
+#: framework/admin/class-system-info.php:190
+#: framework/admin/class-system-info.php:199
+#: framework/admin/class-system-info.php:278
+#: framework/admin/class-system-info.php:287
+#: framework/admin/class-system-info.php:303
+#: framework/admin/class-system-info.php:328
+#: framework/admin/class-system-info.php:337
+#: framework/admin/class-system-info.php:346
+#: framework/admin/class-system-info.php:355
+msgid "No"
+msgstr ""
+
+#: framework/admin/class-system-info.php:184
+msgid "Force SSL Admin"
+msgstr ""
+
+#: framework/admin/class-system-info.php:193
+msgid "Child Theme"
+msgstr ""
+
+#: framework/admin/class-system-info.php:206
+msgid "Server Info"
+msgstr ""
+
+#: framework/admin/class-system-info.php:209
+msgid "Server Software"
+msgstr ""
+
+#: framework/admin/class-system-info.php:218
+msgid "PHP Version"
+msgstr ""
+
+#: framework/admin/class-system-info.php:224
+msgid "Function phpversion() is not available."
+msgstr ""
+
+#: framework/admin/class-system-info.php:227
+msgid "MySQL Version"
+msgstr ""
+
+#: framework/admin/class-system-info.php:236
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: framework/admin/class-system-info.php:242
+#: framework/admin/class-system-info.php:251
+#: framework/admin/class-system-info.php:260
+#: framework/admin/class-system-info.php:269
+#: framework/admin/class-system-info.php:278
+msgid "Function ini_get() is not available."
+msgstr ""
+
+#: framework/admin/class-system-info.php:245
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: framework/admin/class-system-info.php:254
+msgid "PHP Time Limit"
+msgstr ""
+
+#: framework/admin/class-system-info.php:263
+msgid "Upload Max Filesize"
+msgstr ""
+
+#: framework/admin/class-system-info.php:272
+msgid "Display Errors"
+msgstr ""
+
+#: framework/admin/class-system-info.php:281
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: framework/admin/class-system-info.php:294
+msgid "Image Support"
+msgstr ""
+
+#: framework/admin/class-system-info.php:297
+msgid "GD Library Installed"
+msgstr ""
+
+#: framework/admin/class-system-info.php:306
+msgid "Image Upload Path"
+msgstr ""
+
+#: framework/admin/class-system-info.php:319
+msgid "Other Checks"
+msgstr ""
+
+#: framework/admin/class-system-info.php:322
+msgid "JSON Decode"
+msgstr ""
+
+#: framework/admin/class-system-info.php:331
+msgid "cURL Enabled"
+msgstr ""
+
+#: framework/admin/class-system-info.php:340
+msgid "fsockopen Enabled"
+msgstr ""
+
+#: framework/admin/class-system-info.php:349
+msgid "OpenSSL Enabled"
+msgstr ""
+
+#: framework/admin/class-system-info.php:358
+msgid "WP Remote Post"
+msgstr ""
+
+#: framework/admin/class-system-info.php:364
+msgid "wp_remote_post() test was successful."
+msgstr ""
+
+#: framework/admin/class-system-info.php:364
+msgid "wp_remote_post() test failed."
+msgstr ""
+
+#: framework/admin/class-system-info.php:371
+msgid "Plugins"
+msgstr ""
+
+#: framework/admin/class-system-info.php:374
+msgid "Installed Plugins"
+msgstr ""
+
+#: framework/admin/class-system-info.php:402
+msgid "Download Report"
+msgstr ""
+
+#: framework/admin/class-system-info.php:468
+msgid "One-off event"
+msgstr ""
+
+#: framework/admin/class-system-info.php:493
+msgid "You haven&#39;t created any cron job tasks yet."
+msgstr ""
+
+#: framework/admin/class-system-info.php:499
+msgid "Hook Name"
+msgstr ""
+
+#: framework/admin/class-system-info.php:500
+msgid "Frequency"
+msgstr ""
+
+#: framework/admin/class-system-info.php:501
+msgid "Next Run Date"
+msgstr ""
+
+#: framework/admin/class-tabs-page.php:140 includes/events/event-form.php:41
+#: includes/listing-form.php:53
+msgid "Save Changes"
+msgstr ""
+
+#: framework/admin/class-user-meta-box.php:187
+msgid "ERROR"
+msgstr ""
+
+#: framework/admin/class-widget.php:165 framework/p2p-core/widget.php:37
+#: includes/events/widgets.php:282 includes/events/widgets.php:376
+#: includes/events/widgets.php:524 includes/events/widgets.php:671
+#: includes/events/widgets.php:806 includes/widgets.php:154
+#: includes/widgets.php:308 includes/widgets.php:436 includes/widgets.php:566
+#: includes/widgets.php:663 includes/widgets.php:759 includes/widgets.php:862
+#: includes/widgets.php:910 includes/widgets.php:992
+msgid "Title:"
+msgstr ""
+
+#: framework/admin/importer.php:81
+msgid "CSV Importer"
+msgstr ""
+
+#: framework/admin/importer.php:82
+msgid "Importer"
+msgstr ""
+
+#: framework/admin/importer.php:107
+msgid ""
+"Below you will find a tool which allows you to import content from other "
+"systems via a CSV (comma-separated values) file, which can be edited using a "
+"program like Excel. Note that the file must be in the correct format for the "
+"import tool to work. You will find an example .csv file in the \"examples\" "
+"theme folder."
+msgstr ""
+
+#: framework/admin/importer.php:108
+msgid "Choose a CSV file to upload, then click \"Upload file and import\"."
+msgstr ""
+
+#: framework/admin/importer.php:119
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: framework/admin/importer.php:126
+msgid "Choose a file from your computer:"
+msgstr ""
+
+#: framework/admin/importer.php:126
+msgid "Maximum size: %s"
+msgstr ""
+
+#: framework/admin/importer.php:134
+msgid "Upload file and import"
+msgstr ""
+
+#: framework/admin/importer.php:146
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/admin/importer.php:158
+msgid "The file could not be processed."
+msgstr ""
+
+#: framework/admin/importer.php:160
+msgid "Imported %s items."
+msgstr ""
+
+#: framework/admin/importer.php:422
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/admin/importer.php:469
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/admin/importer.php:475
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/admin/importer.php:482
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/admin/importer.php:487
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/admin/importer.php:493
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/admin/versions.php:58
+msgid "Successfully updated to version %s."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:38
+msgid "Images"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:62 includes/events/views.php:228
+#: includes/views.php:617 includes/views.php:848 includes/views.php:1096
+msgid "Clear"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:70
+msgid "Add Image"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:71
+msgid "You are allowed to upload %s file(s)."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:71
+msgid "Maximum file size: %s KB."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:73
+msgid ""
+"You are using the flash uploader. Problems? Try the <a href=\"#\">browser "
+"uploader</a> instead."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:74
+msgid ""
+"You are using the browser uploader. Problems? Try the <a href=\"#\">flash "
+"uploader</a> instead."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:97
+msgid "Change Title"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:125
+msgid "Are you sure?"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:138
+msgid "Allowed Files"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:241
+msgid "Your listing images are now being processed..."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:259
+msgid "Image number %1$d of %2$s has been processed."
+msgstr ""
+
+#: framework/includes/search-index.php:81
+msgid "Search Index Update Progress: %g%s complete."
+msgstr ""
+
+#: framework/includes/stats.php:244
+msgid "Stats has been reseted!"
+msgstr ""
+
+#: framework/includes/stats.php:335
+msgid "%d total views, %d today"
+msgstr ""
+
+#: framework/includes/stats.php:337
+msgid "No views yet"
+msgstr ""
+
+#: framework/includes/stats.php:443
+msgid "Reset listing statistics"
+msgstr ""
+
+#: framework/includes/stats.php:443
+msgid "Reset stats"
+msgstr ""
+
+#: framework/includes/views-login.php:122
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr ""
+
+#: framework/includes/views-login.php:126
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr ""
+
+#: framework/includes/views-login.php:165
+msgid ""
+"Cookies are blocked or not supported by your browser. You must enable "
+"cookies to continue."
+msgstr ""
+
+#: framework/includes/views-login.php:169
+msgid "You are now logged out."
+msgstr ""
+
+#: framework/includes/views-login.php:172
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: framework/includes/views-login.php:175
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: framework/includes/views-login.php:178
+msgid "Check your email for your new password."
+msgstr ""
+
+#: framework/includes/views-login.php:181
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: framework/includes/views-login.php:184
+msgid "Your password has been reset. Please login."
+msgstr ""
+
+#: framework/includes/views-login.php:247
+msgid "Sorry, that key does not appear to be valid. Please try again."
+msgstr ""
+
+#: framework/includes/views-login.php:266
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: framework/includes/views-login.php:270
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: framework/includes/views-login.php:284
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: framework/includes/views-login.php:298
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: framework/includes/views-login.php:311
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: framework/includes/views-login.php:313
+msgid "Username: %s"
+msgstr ""
+
+#: framework/includes/views-login.php:314
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: framework/includes/views-login.php:315
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: framework/includes/views-login.php:328
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: framework/includes/views-login.php:334
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: framework/includes/views-login.php:334
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: framework/includes/views-login.php:391
+msgid "The passwords do not match."
+msgstr ""
+
+#: framework/includes/views-login.php:407
+msgid "Invalid key"
+msgstr ""
+
+#: framework/includes/views-login.php:411
+msgid "Invalid login"
+msgstr ""
+
+#: framework/includes/views-login.php:417
+msgid "Invalid user"
+msgstr ""
+
+#: framework/includes/views-login.php:528
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: framework/includes/views-login.php:530
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: framework/includes/views-login.php:533
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: framework/includes/views-login.php:538
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: framework/includes/views-login.php:540
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: framework/includes/views-login.php:543
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: framework/includes/views-login.php:557
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr ""
+
+#: framework/includes/views-login.php:559
+msgid "<strong>ERROR</strong>: Please enter the password twice."
+msgstr ""
+
+#: framework/includes/views-login.php:561
+msgid "<strong>ERROR</strong>: The passwords do not match."
+msgstr ""
+
+#: framework/includes/views-login.php:574
+msgid "<strong>ERROR</strong>: The reCaptcha anti-spam response was incorrect."
+msgstr ""
+
+#: framework/includes/views-login.php:592
+msgid ""
+"<strong>ERROR</strong>: Couldn&#39;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: framework/includes/views-login.php:678
+msgid "The default WordPress login page is still accessible."
+msgstr ""
+
+#: framework/includes/views-login.php:679
+msgid ""
+"After you ensure that permalinks on your site are working correctly and you "
+"are not using any \"maintenance mode\" plugins, please disable it in your <a "
+"href=\"%s\">theme settings</a>."
+msgstr ""
+
+#: framework/js/localization.php:13 includes/custom-post-type-helper.php:331
+#: includes/events/views.php:232 includes/views.php:621
+msgid "This field is required."
+msgstr ""
+
+#: framework/js/localization.php:14
+msgid "Please fix this field."
+msgstr ""
+
+#: framework/js/localization.php:15 includes/custom-post-type-helper.php:336
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: framework/js/localization.php:16 includes/custom-post-type-helper.php:341
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: framework/js/localization.php:17
+msgid "Please enter a valid date."
+msgstr ""
+
+#: framework/js/localization.php:18
+msgid "Please enter a valid date (ISO)."
+msgstr ""
+
+#: framework/js/localization.php:19
+msgid "Please enter a valid number."
+msgstr ""
+
+#: framework/js/localization.php:20
+msgid "Please enter only digits."
+msgstr ""
+
+#: framework/js/localization.php:21
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: framework/js/localization.php:22
+msgid "Please enter the same value again."
+msgstr ""
+
+#: framework/js/localization.php:23
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: framework/js/localization.php:24
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: framework/js/localization.php:25
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: framework/js/localization.php:26
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: framework/js/localization.php:27
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: framework/js/localization.php:28
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: framework/js/localization.php:34
+msgid "image {current} of {total}"
+msgstr ""
+
+#: framework/js/localization.php:35
+msgid "previous"
+msgstr ""
+
+#: framework/js/localization.php:36
+msgid "next"
+msgstr ""
+
+#: framework/js/localization.php:37
+msgid "close"
+msgstr ""
+
+#: framework/js/localization.php:38
+msgid "This content failed to load."
+msgstr ""
+
+#: framework/js/localization.php:39
+msgid "This image failed to load."
+msgstr ""
+
+#: framework/js/localization.php:40
+msgid "start slideshow"
+msgstr ""
+
+#: framework/js/localization.php:41
+msgid "stop slideshow"
+msgstr ""
+
+#: framework/js/localization.php:50
+msgid "Done"
+msgstr ""
+
+#: framework/js/localization.php:51
+msgid "Prev"
+msgstr ""
+
+#: framework/js/localization.php:52
+msgid "Next"
+msgstr ""
+
+#: framework/js/localization.php:53
+msgid "Today"
+msgstr ""
+
+#: framework/js/localization.php:54
+msgid "Wk"
+msgstr ""
+
+#: framework/js/localization.php:60
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Su"
+msgstr ""
+
+#: framework/js/localization.php:61
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Mo"
+msgstr ""
+
+#: framework/js/localization.php:62
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Tu"
+msgstr ""
+
+#: framework/js/localization.php:63
+msgctxt "two-letter abbreviation of the weekday"
+msgid "We"
+msgstr ""
+
+#: framework/js/localization.php:64
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Th"
+msgstr ""
+
+#: framework/js/localization.php:65
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Fr"
+msgstr ""
+
+#: framework/js/localization.php:66
+msgctxt "two-letter abbreviation of the weekday"
+msgid "Sa"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:178
+msgid "Browse:"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:179 includes/views.php:6
+msgid "Home"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:180
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:181
+msgid "404 Not Found"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:182
+msgid "Page %d"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:183
+msgid "Archives"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:184
+msgid "g:i a"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:185
+msgid "Minute %d"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:186
+msgid "g a"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:187
+msgid "d"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:188
+msgid "Week %d"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:189
+msgid "F"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:190
+#: framework/kernel/breadcrumb-trail.php:1031
+msgid "Y"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:1035
+msgid "F Y"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:1039
+msgid "F j, Y"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:1130
+#: framework/kernel/breadcrumb-trail.php:1166
+#: framework/kernel/breadcrumb-trail.php:1183
+#: framework/kernel/breadcrumb-trail.php:1214 page.php:29 single.php:26
+msgid "Edit"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:1158
+msgid "Split"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:1162
+msgid "Merge"
+msgstr ""
+
+#: framework/kernel/functions.php:81
+msgid ""
+"Query vars cannot be added before WP_Query is instantiated and default query "
+"vars has not been pre-filled yet."
+msgstr ""
+
+#: framework/kernel/functions.php:206
+msgid "You must first login."
+msgstr ""
+
+#: framework/kernel/functions.php:207
+msgid "You must first login or <a href=\"%s\">register</a>."
+msgstr ""
+
+#: framework/kernel/functions.php:265
+msgid "Page %s"
+msgstr ""
+
+#: framework/kernel/functions.php:294
+msgid "Lost password?"
+msgstr ""
+
+#: framework/kernel/functions.php:346
+msgid "Page %s of %s"
+msgstr ""
+
+#: framework/kernel/functions.php:586 includes/categories.php:110
+msgid "No categories"
+msgstr ""
+
+#: framework/kernel/functions.php:1229
+#: includes/payments/admin/order-list.php:135
+msgid "%s ago"
+msgstr ""
+
+#: framework/kernel/mail-from.php:287
+msgid ""
+"Email provider of \"%1$s\" address do not allow to use their email addresses "
+"by other servers. The \"%2$s\" address will be used to send out emails."
+msgstr ""
+
+#: framework/kernel/social.php:75
+msgid ""
+"Enter your %1$s username or URL here. If you add your username the URL will "
+"look like this: \"%2$s\", where \"%3$s\" is your username."
+msgstr ""
+
+#: framework/kernel/social.php:114
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/kernel/social.php:119
+msgid "Google+"
+msgstr ""
+
+#: framework/kernel/social.php:123
+msgid ""
+"Enter your Google+ ID or URL here. If you add your Google+ ID the URL will "
+"look like this: \"%s\" where the number is your ID."
+msgstr ""
+
+#: framework/kernel/social.php:129
+msgid "YouTube"
+msgstr ""
+
+#: framework/kernel/social.php:134
+msgid "Instagram"
+msgstr ""
+
+#: framework/kernel/social.php:138
+msgid "Pinterest"
+msgstr ""
+
+#: framework/kernel/social.php:142
+msgid "Github"
+msgstr ""
+
+#: framework/kernel/social.php:146
+msgid "Path"
+msgstr ""
+
+#: framework/kernel/social.php:150
+msgid "Vimeo"
+msgstr ""
+
+#: framework/kernel/social.php:154
+msgid "Flickr"
+msgstr ""
+
+#: framework/kernel/social.php:158
+msgid "Picasa"
+msgstr ""
+
+#: framework/kernel/social.php:162
+msgid ""
+"Enter your Picasa ID or URL here. If you add your Picasa ID the URL will "
+"look like this: \"%s\" where the number is your ID."
+msgstr ""
+
+#: framework/kernel/social.php:168
+msgid "Foursquare"
+msgstr ""
+
+#: framework/kernel/social.php:172
+msgid "WordPress"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: framework/kernel/view-edit-profile.php:14 sidebar-dashboard.php:29
+msgid "Edit Profile"
+msgstr ""
+
+#: framework/kernel/view-edit-profile.php:38
+msgid "Your profile has been updated."
+msgstr ""
+
+#: framework/kernel/view-types.php:283
+msgid "Page Attributes"
+msgstr ""
+
+#: framework/kernel/view-types.php:367
+msgid "(no parent)"
+msgstr ""
+
+#: framework/kernel/view-types.php:376 framework/kernel/view-types.php:377
+msgid "Parent"
+msgstr ""
+
+#: framework/kernel/view-types.php:392
+msgid "Template"
+msgstr ""
+
+#: framework/kernel/view-types.php:393
+msgid "Page Template"
+msgstr ""
+
+#: framework/kernel/view-types.php:395
+msgid "Default Template"
+msgstr ""
+
+#: framework/kernel/view-types.php:424 framework/kernel/view-types.php:425
+#: includes/payments/admin/order-list.php:21
+#: includes/payments/order-functions.php:35
+msgid "Order"
+msgstr ""
+
+#: framework/kernel/view-types.php:426
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:131
+msgid "Allowed files"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:132
+msgid "Allowed file types"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:133
+msgid "Insert Media"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:134
+msgid "Insert from URL"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:135
+msgid "Maximum upload file size"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:136
+msgid "Allowed embeds"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:137
+msgid "Clear Embeds (clears any previously added embeds)"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:138
+msgid "No more embeds allowed"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:178
+msgid "Add Media"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:179
+msgid "Manage Media"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:180
+msgid "No media added yet"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:369
+#: includes/payments/admin/order-list.php:101
+#: includes/payments/admin/order-single.php:159
+msgid "Unknown"
+msgstr ""
+
+#: framework/media-manager/media-manager.php:601
+msgid "Sorry, allowed mime types do not seem to be valid."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:637
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:650
+msgid "Sorry, the allowed file size does not seem to be valid."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:657
+msgid ""
+"Sorry, you cannot upload this file as it exceeds the size limitations for "
+"this field."
+msgstr ""
+
+#: framework/media-manager/media-manager.php:680
+msgid "Sorry, you've reached the file upload limit for this field."
+msgstr ""
+
+#: framework/p2p-core/connection-type.php:91
+msgid "Create connections"
+msgstr ""
+
+#: framework/p2p-core/connection-type.php:109
+msgid "Connected %s"
+msgstr ""
+
+#: framework/p2p-core/side-user.php:16
+msgid "Users"
+msgstr ""
+
+#: framework/p2p-core/side-user.php:25
+msgid "User"
+msgstr ""
+
+#: framework/p2p-core/side-user.php:26
+msgid "Search Users"
+msgstr ""
+
+#: framework/p2p-core/side-user.php:27
+msgid "No users found."
+msgstr ""
+
+#: framework/p2p-core/widget.php:19
+msgid "Posts 2 Posts"
+msgstr ""
+
+#: framework/p2p-core/widget.php:20
+msgid "A list of posts connected to the current post"
+msgstr ""
+
+#: framework/p2p-core/widget.php:44
+msgid "Connection type:"
+msgstr ""
+
+#: framework/p2p-core/widget.php:49
+msgid "Connection listing:"
+msgstr ""
+
+#: framework/p2p-core/widget.php:55
+msgid "connected"
+msgstr ""
+
+#: framework/p2p-core/widget.php:56
+msgid "related"
+msgstr ""
+
+#: framework/scb/AdminPage.php:228
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: framework/scb/AdminPage.php:467 includes/admin/settings.php:14
+#: includes/payments/admin/settings.php:18
+msgid "Settings"
+msgstr ""
+
+#: framework/templates/form-login.php:14
+#: framework/templates/form-registration.php:22
+msgid "Password:"
+msgstr ""
+
+#: framework/templates/form-login.php:27
+msgid "Remember me"
+msgstr ""
+
+#: framework/templates/form-login.php:31
+msgid "Lost your password?"
+msgstr ""
+
+#: framework/templates/form-password-recovery.php:3
+msgid ""
+"Please enter your username or email address. A new password will be emailed "
+"to you."
+msgstr ""
+
+#: framework/templates/form-password-recovery.php:9
+msgid "Username or Email:"
+msgstr ""
+
+#: framework/templates/form-password-recovery.php:17
+#: framework/templates/form-password-reset.php:23
+msgid "Reset Password"
+msgstr ""
+
+#: framework/templates/form-password-reset.php:2
+msgid "Enter your new password below."
+msgstr ""
+
+#: framework/templates/form-password-reset.php:8
+msgid "New password"
+msgstr ""
+
+#: framework/templates/form-password-reset.php:13
+msgid "Confirm new password"
+msgstr ""
+
+#: framework/templates/form-password-reset.php:19
+#: framework/templates/form-registration.php:36
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+
+#: framework/templates/form-registration.php:3
+msgid "Complete the fields below to register."
+msgstr ""
+
+#: functions.php:182
+msgid "Regular Listing"
+msgstr ""
+
+#: functions.php:189
+msgid "Feature on Homepage"
+msgstr ""
+
+#: functions.php:196
+msgid "Feature on Category"
+msgstr ""
+
+#: header.php:40
+msgid "Search For "
+msgstr ""
+
+#: header.php:54
+msgid "Near "
+msgstr ""
+
+#: header.php:54
+msgid "(city, country)"
+msgstr ""
+
+#: header.php:66 includes/admin/settings.php:107
+#: includes/events/admin/settings.php:107
+msgid "Search"
+msgstr ""
+
+#: home-events-loop.php:36
+msgid "Sorry there are no events yet"
+msgstr ""
+
+#: includes/admin/admin.php:120
+msgid ""
+"Default User role was changed from \"Subscriber\" to \"Contributor\". Please "
+"use bulk action \"Change role to...\" on <a href=\"%s\">Users</a> page to "
+"grand existing users \"Contributor\" role."
+msgstr ""
+
+#: includes/admin/admin.php:120
+msgid "Hide Notice"
+msgstr ""
+
+#: includes/admin/admin.php:409 includes/core.php:268
+msgid "Header"
+msgstr ""
+
+#: includes/admin/admin.php:457 includes/events/admin/admin.php:128
+msgid "Map"
+msgstr ""
+
+#: includes/admin/admin.php:461
+msgid "Related Categories"
+msgstr ""
+
+#: includes/admin/admin.php:465 includes/events/admin/admin.php:132
+msgid "Sponsored Ad"
+msgstr ""
+
+#: includes/admin/admin.php:469
+msgid "Recently Added Businesses"
+msgstr ""
+
+#: includes/admin/admin.php:476 includes/widgets.php:499
+msgid "Recent Reviews"
+msgstr ""
+
+#: includes/admin/admin.php:480 includes/admin/admin.php:515
+msgid "Advertisement"
+msgstr ""
+
+#: includes/admin/admin.php:484 includes/admin/admin.php:492
+#: includes/widgets.php:935
+msgid "Popular Categories"
+msgstr ""
+
+#: includes/admin/admin.php:497 includes/admin/admin.php:519
+#: includes/widgets.php:613
+msgid "Recent Listings"
+msgstr ""
+
+#: includes/admin/admin.php:511
+msgid "Text Widget"
+msgstr ""
+
+#: includes/admin/admin.php:523
+msgid "Connect!"
+msgstr ""
+
+#: includes/admin/category-surcharge.php:45
+msgid "Surcharges for %s"
+msgstr ""
+
+#: includes/admin/category-surcharge.php:57
+msgid "Category"
+msgstr ""
+
+#: includes/admin/category-surcharge.php:58
+msgid "Price %s"
+msgstr ""
+
+#: includes/admin/dashboard.php:8
+msgid "Vantage Dashboard"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: includes/admin/dashboard.php:9
+msgid "Vantage"
+msgstr ""
+
+#: includes/admin/dashboard.php:16
+msgid "Snapshot"
+msgstr ""
+
+#: includes/admin/dashboard.php:26
+msgid "New Registrations Today"
+msgstr ""
+
+#: includes/admin/dashboard.php:27
+msgid "New Registrations Yesterday"
+msgstr ""
+
+#: includes/admin/dashboard.php:29
+msgid "Total Users"
+msgstr ""
+
+#: includes/admin/dashboard.php:39
+msgid "New Listings (24 hours)"
+msgstr ""
+
+#: includes/admin/dashboard.php:42
+msgid "Published Listings"
+msgstr ""
+
+#: includes/admin/dashboard.php:49
+msgid "Pending Listings"
+msgstr ""
+
+#: includes/admin/dashboard.php:56 includes/dashboard.php:25
+#: sidebar-dashboard.php:32
+msgid "Claimed Listings"
+msgstr ""
+
+#: includes/admin/dashboard.php:62
+msgid "Total Listings"
+msgstr ""
+
+#: includes/admin/dashboard.php:72
+msgid "Revenue (7 days)"
+msgstr ""
+
+#: includes/admin/dashboard.php:73
+msgid "Total Revenue"
+msgstr ""
+
+#: includes/admin/dashboard.php:79
+msgid "Product Version"
+msgstr ""
+
+#: includes/admin/dashboard.php:80 includes/admin/dashboard.php:81
+msgid "Product Support"
+msgstr ""
+
+#: includes/admin/dashboard.php:80
+msgid "Forum"
+msgstr ""
+
+#: includes/admin/dashboard.php:81
+msgid "Documentation"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/admin/featured.php:21 includes/admin/settings.php:43
+#: includes/core.php:13 includes/core.php:24 includes/customizer.php:41
+#: includes/dashboard.php:29 includes/dashboard.php:153
+msgid "Listings"
+msgstr ""
+
+#: includes/admin/featured.php:30
+msgid "Listing Add-ons"
+msgstr ""
+
+#: includes/admin/featured.php:38
+msgid "Type"
+msgstr ""
+
+#: includes/admin/featured.php:39
+msgid "Enabled"
+msgstr ""
+
+#: includes/admin/featured.php:40 includes/admin/pricing.php:37
+#: includes/events/admin/pricing.php:69
+#: includes/payments/admin/order-list.php:24
+#: includes/payments/admin/order-meta.php:151
+#: includes/payments/admin/order-single.php:64
+msgid "Price"
+msgstr ""
+
+#: includes/admin/featured.php:41 includes/admin/listing-single.php:587
+#: includes/admin/pricing.php:285
+msgid "Duration"
+msgstr ""
+
+#: includes/admin/featured.php:79 includes/admin/listing-single.php:547
+#: includes/admin/pricing.php:288
+msgid "days"
+msgstr ""
+
+#: includes/admin/listing-list.php:17
+msgid "Claimee"
+msgstr ""
+
+#: includes/admin/listing-list.php:20
+msgid "Expire Date"
+msgstr ""
+
+#: includes/admin/listing-list.php:66 includes/admin/listing-list.php:86
+msgid "Listing Claimable?"
+msgstr ""
+
+#: includes/admin/listing-single.php:78
+#: includes/events/admin/event-single.php:45
+msgid "Location"
+msgstr ""
+
+#: includes/admin/listing-single.php:90
+#: includes/events/admin/event-single.php:57
+msgid "Find on Map"
+msgstr ""
+
+#: includes/admin/listing-single.php:126
+#: includes/events/admin/event-single.php:92
+msgid "Address"
+msgstr ""
+
+#: includes/admin/listing-single.php:153
+msgid "Claimable Listing"
+msgstr ""
+
+#: includes/admin/listing-single.php:160
+msgid "Users can claim this listing"
+msgstr ""
+
+#: includes/admin/listing-single.php:172
+msgid ""
+"Claimable listings will have a link that allows users to claim them. You can "
+"enable moderation on claimed listings in settings."
+msgstr ""
+
+#: includes/admin/listing-single.php:191
+msgid "Reviews Status"
+msgstr ""
+
+#: includes/admin/listing-single.php:210
+msgid "Enable Reviews to be submitted on this listing?"
+msgstr ""
+
+#: includes/admin/listing-single.php:231 includes/admin/listing-single.php:689
+#: includes/events/admin/event-single.php:495
+msgid "Moderation Queue"
+msgstr ""
+
+#: includes/admin/listing-single.php:242
+msgid "Someone wants to claim this listing."
+msgstr ""
+
+#: includes/admin/listing-single.php:246
+msgid "<strong>New Owner:</strong> %s"
+msgstr ""
+
+#: includes/admin/listing-single.php:248
+msgid "Email %s"
+msgstr ""
+
+#: includes/admin/listing-single.php:253 includes/admin/listing-single.php:703
+#: includes/events/admin/event-single.php:509
+msgid "Accept"
+msgstr ""
+
+#: includes/admin/listing-single.php:262 includes/admin/listing-single.php:712
+#: includes/events/admin/event-single.php:518
+msgid "Reject"
+msgstr ""
+
+#: includes/admin/listing-single.php:266
+msgid "Rejecting will return it to being published on the site."
+msgstr ""
+
+#: includes/admin/listing-single.php:300 includes/views.php:1296
+msgid ""
+"You have rejected the claim, and now this listing has been reset to <a href="
+"\"#listing-claimable\">claimable</a>."
+msgstr ""
+
+#: includes/admin/listing-single.php:311
+#: includes/events/admin/event-single.php:134
+msgid "Contact Information"
+msgstr ""
+
+#: includes/admin/listing-single.php:361
+msgid "Pricing Information"
+msgstr ""
+
+#: includes/admin/listing-single.php:490 includes/dashboard.php:349
+#: includes/listing-purchase.php:384
+msgid "Never"
+msgstr ""
+
+#: includes/admin/listing-single.php:535
+msgid ""
+"These settings allow you to override the defaults that have been applied to "
+"the listings based on the plan the owner chose. They will apply until the "
+"listing expires."
+msgstr ""
+
+#: includes/admin/listing-single.php:544
+msgid "Listing Duration"
+msgstr ""
+
+#: includes/admin/listing-single.php:553 includes/admin/listing-single.php:558
+msgid "Listing Start Date"
+msgstr ""
+
+#: includes/admin/listing-single.php:563 includes/admin/listing-single.php:616
+msgid "Expires on"
+msgstr ""
+
+#: includes/admin/listing-single.php:588
+msgid "days (0 = Infinite)"
+msgstr ""
+
+#: includes/admin/listing-single.php:597 includes/admin/listing-single.php:603
+#: includes/admin/listing-single.php:609
+msgid "Start Date"
+msgstr ""
+
+#: includes/admin/listing-single.php:698
+msgid "You must approve this listing before it can be published."
+msgstr ""
+
+#: includes/admin/listing-single.php:716
+msgid "Rejecting a listing sends it to the trash."
+msgstr ""
+
+#: includes/admin/listing-single.php:728 includes/admin/listing-single.php:734
+#: includes/custom-post-type-helper.php:250
+#: includes/events/admin/event-single.php:531
+#: includes/events/admin/event-single.php:537
+#: includes/payments/admin/order-list.php:22
+msgid "Author"
+msgstr ""
+
+#: includes/admin/listing-single.php:763
+#: includes/custom-forms/form-builder.php:13
+#: includes/custom-forms/form-builder.php:23
+msgid "Custom Forms"
+msgstr ""
+
+#: includes/admin/listing-single.php:845 includes/files.php:23
+msgid "Allowed extensions: %1$s"
+msgstr ""
+
+#: includes/admin/listing-single.php:890
+msgid "Listing Attachments"
+msgstr ""
+
+#: includes/admin/pricing.php:6
+msgid "Pricing Details"
+msgstr ""
+
+#: includes/admin/pricing.php:21
+msgid "Plan Name"
+msgstr ""
+
+#: includes/admin/pricing.php:27
+msgid "Description"
+msgstr ""
+
+#: includes/admin/pricing.php:40
+msgid "Example: %s "
+msgstr ""
+
+#: includes/admin/pricing.php:47 includes/events/admin/pricing.php:106
+msgid "Categories Included"
+msgstr ""
+
+#: includes/admin/pricing.php:50 includes/events/admin/pricing.php:109
+msgid " ( 0 = Infinite )"
+msgstr ""
+
+#: includes/admin/pricing.php:57 includes/listing-purchase.php:523
+msgid "Recurring"
+msgstr ""
+
+#: includes/admin/pricing.php:61
+msgid "Non Recurring"
+msgstr ""
+
+#: includes/admin/pricing.php:62
+msgid "Optional Recurring"
+msgstr ""
+
+#: includes/admin/pricing.php:63
+msgid "Forced Recurring"
+msgstr ""
+
+#: includes/admin/pricing.php:88 includes/admin/pricing.php:89
+msgid "Plan updated."
+msgstr ""
+
+#: includes/admin/pricing.php:90
+msgid "Plan created."
+msgstr ""
+
+#: includes/admin/pricing.php:91
+msgid "Plan saved."
+msgstr ""
+
+#: includes/admin/pricing.php:92
+msgid "Plan scheduled."
+msgstr ""
+
+#: includes/admin/pricing.php:93
+msgid "Plan draft updated."
+msgstr ""
+
+#: includes/admin/pricing.php:119
+msgid "Listing Duration Period"
+msgstr ""
+
+#: includes/admin/pricing.php:162 includes/events/load.php:345
+msgid "Days"
+msgstr ""
+
+#: includes/admin/pricing.php:163
+msgid "Months"
+msgstr ""
+
+#: includes/admin/pricing.php:164
+msgid "Years"
+msgstr ""
+
+#: includes/admin/pricing.php:169
+msgid "( 0 = Infinite )"
+msgstr ""
+
+#: includes/admin/pricing.php:194
+msgid "Listing Duration/ Recurring Period"
+msgstr ""
+
+#: includes/admin/pricing.php:268
+msgid "Featured Addons"
+msgstr ""
+
+#: includes/admin/pricing.php:281
+msgid "Included"
+msgstr ""
+
+#: includes/admin/pricing.php:345
+msgid ""
+"You can include featured addons in a plan. These will be immediately added "
+"to the listing upon purchase. After they run out, the customer can then "
+"purchase regular featured addons."
+msgstr ""
+
+#: includes/admin/pricing.php:350
+msgid "Durations must be shorter than the listing duration."
+msgstr ""
+
+#: includes/admin/settings.php:13
+msgid "Vantage Settings"
+msgstr ""
+
+#: includes/admin/settings.php:30
+msgid "Expired listings have been pruned."
+msgstr ""
+
+#: includes/admin/settings.php:42 includes/events/admin/settings.php:68
+#: includes/geo/admin/settings.php:47 includes/payments/admin/settings.php:32
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings.php:46 includes/admin/settings.php:144
+#: includes/events/admin/settings.php:146
+msgid "Appearance"
+msgstr ""
+
+#: includes/admin/settings.php:49
+msgid "Theme Customizer"
+msgstr ""
+
+#: includes/admin/settings.php:50
+msgid ""
+"<a href=\"%s\">Customize Vantage</a> design and settings and see the results "
+"real-time without opening or refreshing a new browser window."
+msgstr ""
+
+#: includes/admin/settings.php:56
+msgid ""
+"Use the WordPress Theme Customizer to try out different design optoins and "
+"other Vantage settings."
+msgstr ""
+
+#: includes/admin/settings.php:60
+msgid "Theme Color"
+msgstr ""
+
+#: includes/admin/settings.php:64
+msgid "Choose the overall theme color."
+msgstr ""
+
+#: includes/admin/settings.php:67
+msgid "Header Image"
+msgstr ""
+
+#: includes/admin/settings.php:68
+msgid "Set Your Header Image in the <a href=\"%s\">Header</a> settings."
+msgstr ""
+
+#: includes/admin/settings.php:75
+msgid ""
+"This is where you can upload/manage your logo that appears in your site's "
+"header along with settings to control the text below the logo."
+msgstr ""
+
+#: includes/admin/settings.php:83
+msgid "Charge for Listings"
+msgstr ""
+
+#: includes/admin/settings.php:87
+msgid ""
+"Do you want to charge for creating a listing on your site? You can manage "
+"your <a href=\"%s\">Payments Settings</a> in the Payments Menu."
+msgstr ""
+
+#: includes/admin/settings.php:90
+msgid "Moderate Listings"
+msgstr ""
+
+#: includes/admin/settings.php:94
+msgid "Do you want to moderate new listings before they are displayed live?"
+msgstr ""
+
+#: includes/admin/settings.php:97
+msgid "Moderate Claimed Listings"
+msgstr ""
+
+#: includes/admin/settings.php:101
+msgid ""
+"Do you want to moderate listing claims before they are transfered to the "
+"requesting claimee?"
+msgstr ""
+
+#: includes/admin/settings.php:110 includes/events/admin/settings.php:110
+msgid "Default Search Result Sort"
+msgstr ""
+
+#: includes/admin/settings.php:114 includes/admin/settings.php:130
+#: includes/admin/settings.php:158 includes/admin/settings.php:173
+#: includes/events/admin/settings.php:114
+#: includes/events/admin/settings.php:131
+#: includes/events/admin/settings.php:160
+#: includes/events/admin/settings.php:176 includes/template-tags.php:697
+msgid "Default"
+msgstr ""
+
+#: includes/admin/settings.php:115 includes/admin/settings.php:131
+#: includes/admin/settings.php:159 includes/admin/settings.php:174
+#: includes/template-tags.php:704
+msgid "Highest Rating"
+msgstr ""
+
+#: includes/admin/settings.php:116 includes/admin/settings.php:132
+#: includes/admin/settings.php:160 includes/admin/settings.php:175
+#: includes/template-tags.php:705
+msgid "Most Ratings"
+msgstr ""
+
+#: includes/admin/settings.php:117 includes/admin/settings.php:133
+#: includes/admin/settings.php:161 includes/admin/settings.php:176
+#: includes/events/admin/settings.php:119
+#: includes/events/admin/settings.php:136
+#: includes/events/admin/settings.php:165
+#: includes/events/admin/settings.php:181 includes/template-tags.php:718
+msgid "Alphabetical"
+msgstr ""
+
+#: includes/admin/settings.php:118 includes/admin/settings.php:134
+#: includes/admin/settings.php:162 includes/admin/settings.php:177
+#: includes/template-tags.php:719
+msgid "Newest"
+msgstr ""
+
+#: includes/admin/settings.php:119 includes/admin/settings.php:135
+#: includes/admin/settings.php:163 includes/admin/settings.php:178
+#: includes/template-tags.php:706
+msgid "Recently Reviewed"
+msgstr ""
+
+#: includes/admin/settings.php:120 includes/admin/settings.php:136
+#: includes/admin/settings.php:164 includes/admin/settings.php:179
+#: includes/admin/settings.php:190 includes/events/admin/settings.php:121
+#: includes/events/admin/settings.php:138
+#: includes/events/admin/settings.php:167
+#: includes/events/admin/settings.php:183
+#: includes/events/admin/settings.php:194 includes/template-tags.php:720
+msgid "Random"
+msgstr ""
+
+#: includes/admin/settings.php:122 includes/events/admin/settings.php:123
+msgid ""
+"The default search result sorting method when search is made without a "
+"location entered in search."
+msgstr ""
+
+#: includes/admin/settings.php:125 includes/events/admin/settings.php:126
+msgid "Default Location Based Search Result Sort"
+msgstr ""
+
+#: includes/admin/settings.php:129 includes/events/admin/settings.php:130
+msgid "Closest Distance First"
+msgstr ""
+
+#: includes/admin/settings.php:138 includes/events/admin/settings.php:140
+msgid ""
+"The default search result sorting method when search is made with a location "
+"entered in search."
+msgstr ""
+
+#: includes/admin/settings.php:147 includes/customizer.php:51
+msgid "Listings Per Page"
+msgstr ""
+
+#: includes/admin/settings.php:151
+msgid "How many listings per page do you want shown?"
+msgstr ""
+
+#: includes/admin/settings.php:154
+msgid "Default Listing Sort Method"
+msgstr ""
+
+#: includes/admin/settings.php:166
+msgid "The default sorting method for listing lists."
+msgstr ""
+
+#: includes/admin/settings.php:169
+msgid "Home Listing Sort Method"
+msgstr ""
+
+#: includes/admin/settings.php:181
+msgid "The sorting method for listings on the home page and the listings home."
+msgstr ""
+
+#: includes/admin/settings.php:184
+msgid "Featured Listing Sort Method"
+msgstr ""
+
+#: includes/admin/settings.php:188 includes/events/admin/settings.php:118
+#: includes/events/admin/settings.php:135
+#: includes/events/admin/settings.php:164
+#: includes/events/admin/settings.php:180
+#: includes/events/admin/settings.php:192
+msgid "Newest First"
+msgstr ""
+
+#: includes/admin/settings.php:189 includes/events/admin/settings.php:193
+msgid "Oldest First"
+msgstr ""
+
+#: includes/admin/settings.php:192
+msgid "How do you want to sort the Featured listings that are displayed?"
+msgstr ""
+
+#: includes/admin/settings.php:198 includes/events/admin/settings.php:202
+msgid "Integration"
+msgstr ""
+
+#: includes/admin/settings.php:201
+msgid "Display ShareThis on Listing Lists"
+msgstr ""
+
+#: includes/admin/settings.php:206
+msgid ""
+"If you have the <a href=\"%1$s\" target=\"_blank\">ShareThis</a> plugin "
+"instaled it will be only visible on single listings. This option enables you "
+"to display it on the listings list views also."
+msgstr ""
+
+#: includes/admin/settings.php:209
+msgid "Display ShareThis on Blog Posts"
+msgstr ""
+
+#: includes/admin/settings.php:214
+msgid ""
+"If you have the <a href=\"%1$s\" target=\"_blank\">ShareThis</a> plugin "
+"instaled it will be only visible on single listings. This option enables you "
+"to display it on single blog posts also."
+msgstr ""
+
+#: includes/admin/settings.php:221 includes/events/admin/pricing.php:66
+#: includes/events/admin/settings.php:216
+msgid "Pricing"
+msgstr ""
+
+#: includes/admin/settings.php:224
+msgid "Listing Plans"
+msgstr ""
+
+#: includes/admin/settings.php:227
+msgid "Set your <a href=\"%s\">Listing Plans</a> in the Payments Menu."
+msgstr ""
+
+#: includes/admin/settings.php:231
+msgid ""
+"Manage your Listing Plans, which are packages of pricing and feature options "
+"that are offered."
+msgstr ""
+
+#: includes/admin/settings.php:234 includes/events/admin/settings.php:219
+#: includes/payments/admin/settings.php:17
+msgid "Payments Settings"
+msgstr ""
+
+#: includes/admin/settings.php:237
+msgid ""
+"Set your default <a href=\"%s\">Featured Pricing</a> and Payment Gateway "
+"settings in the Payments Menu."
+msgstr ""
+
+#: includes/admin/settings.php:241
+msgid ""
+"Manage default Payments Settings including featured pricing and duration, "
+"enable/disable available payment gateways, and manage individual payment "
+"gateway's settings."
+msgstr ""
+
+#: includes/admin/settings.php:245
+msgid "Expired Listings"
+msgstr ""
+
+#: includes/admin/settings.php:248
+msgid "Prune  <a href=\"%s\">Expired Listings</a> now."
+msgstr ""
+
+#: includes/admin/settings.php:252
+msgid "Run expired listings check."
+msgstr ""
+
+#: includes/admin/settings.php:258
+msgid "Permalinks"
+msgstr ""
+
+#: includes/admin/settings.php:261
+msgid "Manage"
+msgstr ""
+
+#: includes/admin/settings.php:262
+msgid "Manage <a href=\"%s\">Vantage Permalinks</a>."
+msgstr ""
+
+#: includes/admin/settings.php:268
+msgid ""
+"Manage Vantage's permalinks settings for listings, listing categories, "
+"listing tags, dashboard pages, etc."
+msgstr ""
+
+#: includes/admin/settings.php:275 includes/customizer.php:68
+msgid "Categories Menu Item Options"
+msgstr ""
+
+#: includes/admin/settings.php:280 includes/customizer.php:67
+msgid "Categories Page Options"
+msgstr ""
+
+#: includes/admin/settings.php:285
+msgid "Security Settings"
+msgstr ""
+
+#: includes/admin/settings.php:288
+msgid "Back Office Access"
+msgstr ""
+
+#: includes/admin/settings.php:289
+msgid ""
+"View the WordPress <a target='_new' href='%s'>Roles and Capabilities</a> for "
+"more information."
+msgstr ""
+
+#: includes/admin/settings.php:293
+msgid "Admins Only"
+msgstr ""
+
+#: includes/admin/settings.php:294
+msgid "Admins, Editors"
+msgstr ""
+
+#: includes/admin/settings.php:295
+msgid "Admins, Editors, Authors"
+msgstr ""
+
+#: includes/admin/settings.php:296
+msgid "Admins, Editors, Authors, Contributors"
+msgstr ""
+
+#: includes/admin/settings.php:297
+msgid "All Access"
+msgstr ""
+
+#: includes/admin/settings.php:298
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/settings.php:300
+msgid ""
+"Allows you to restrict access to the WordPress Back Office (wp-admin) by "
+"specific role. Keeping this set to admins only is recommended. Select "
+"Disable if you have problems with this feature."
+msgstr ""
+
+#: includes/admin/settings.php:310
+msgid "Show Category Count"
+msgstr ""
+
+#: includes/admin/settings.php:314
+msgid ""
+"Display the quantity of posts in that category next to the category name?"
+msgstr ""
+
+#: includes/admin/settings.php:317
+msgid "Hide Empty Sub-Categories"
+msgstr ""
+
+#: includes/admin/settings.php:321
+msgid "If a category had no listings, should it be hidden?"
+msgstr ""
+
+#: includes/admin/settings.php:324 includes/customizer.php:123
+msgid "Category Depth"
+msgstr ""
+
+#: includes/admin/settings.php:328 includes/admin/settings.php:348
+#: includes/customizer.php:128 includes/customizer.php:155
+msgid "Show All"
+msgstr ""
+
+#: includes/admin/settings.php:341
+msgid "How many levels deep should the category tree traverse?"
+msgstr ""
+
+#: includes/admin/settings.php:344 includes/customizer.php:150
+msgid "Number of Sub-Categories"
+msgstr ""
+
+#: includes/admin/settings.php:361
+msgid "How many sub-categories of each parent category should be shown?"
+msgstr ""
+
+#: includes/admin/settings.php:379
+msgid "Vantage Custom Post Type & Taxonomy URLs"
+msgstr ""
+
+#: includes/admin/settings.php:380
+msgid "Vantage Actions URLs"
+msgstr ""
+
+#: includes/admin/settings.php:381
+msgid "Vantage Dashboard URLs"
+msgstr ""
+
+#: includes/admin/settings.php:385
+msgid "Vantage Event Post Type & Taxonomy URLs"
+msgstr ""
+
+#: includes/admin/settings.php:386
+msgid "Vantage Event Dashboard URLs"
+msgstr ""
+
+#: includes/admin/settings.php:390
+msgid "Listing Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:391
+msgid "Listing Category Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:392
+msgid "Listing Tag Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:397
+msgid "Event Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:398
+msgid "Event Category Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:399
+msgid "Event Tag Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:400
+msgid "Event Day Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:405
+msgid "Edit Listing Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:406
+msgid "Renew Listing Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:407
+msgid "Claim Listing Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:408
+msgid "Purchase Listing Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:412
+msgid "Dashboard Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:413
+msgid "Dashboard Listing Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:414
+msgid "Dashboard Claimed Listings Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:415
+msgid "Dashboard Reviews Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:416
+msgid "Dashboard Favorites Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:421
+msgid "Dashboard Event Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:422
+msgid "Dashboard Events Attending Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:423
+msgid "Dashboard Event Comments Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:424
+msgid "Dashboard Event Favorites Base URL"
+msgstr ""
+
+#: includes/admin/settings.php:498
+msgid ""
+"Vantage custom post type and taxonomy URLs cannot be empty. Empty options "
+"will default to previous value."
+msgstr ""
+
+#: includes/admin/settings.php:514
+msgid "chosen by child theme"
+msgstr ""
+
+#: includes/admin-bar.php:31
+msgid "Username"
+msgstr ""
+
+#: includes/admin-bar.php:34
+msgid "Password"
+msgstr ""
+
+#: includes/admin-bar.php:39
+msgid "Remember Me"
+msgstr ""
+
+#: includes/admin-bar.php:56
+msgid "Lost Password?"
+msgstr ""
+
+#: includes/admin-bar.php:117
+msgid "%s pending listing"
+msgid_plural "%s pending listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin-bar.php:131
+msgid "%s pending claimed listing"
+msgid_plural "%s pending claimed listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/core.php:14 includes/core.php:649
+msgid "Listing"
+msgstr ""
+
+#: includes/core.php:15 includes/custom-forms/form-builder.php:15
+#: includes/events/load.php:206 includes/payments/order-functions.php:36
+#: includes/payments.php:19
+msgid "Add New"
+msgstr ""
+
+#: includes/core.php:16
+msgid "Add New Listing"
+msgstr ""
+
+#: includes/core.php:17 includes/template-tags.php:223
+msgid "Edit Listing"
+msgstr ""
+
+#: includes/core.php:18 sidebar-dashboard.php:30
+msgid "New Listing"
+msgstr ""
+
+#: includes/core.php:19
+msgid "View Listing"
+msgstr ""
+
+#: includes/core.php:20
+msgid "Search Listings"
+msgstr ""
+
+#: includes/core.php:21
+msgid "No listings found"
+msgstr ""
+
+#: includes/core.php:22
+msgid "No listings found in Trash"
+msgstr ""
+
+#: includes/core.php:23
+msgid "Parent Listing:"
+msgstr ""
+
+#: includes/core.php:62
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/core.php:71
+msgid "Pending Claimed <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Claimed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/core.php:113
+msgid "Search Listing Categories"
+msgstr ""
+
+#: includes/core.php:114 includes/events/load.php:270
+msgid "All Categories"
+msgstr ""
+
+#: includes/core.php:115
+msgid "Parent Listing Category"
+msgstr ""
+
+#: includes/core.php:116
+msgid "Parent Listing Category:"
+msgstr ""
+
+#: includes/core.php:117
+msgid "Edit Listing Category"
+msgstr ""
+
+#: includes/core.php:118
+msgid "Update Listing Category"
+msgstr ""
+
+#: includes/core.php:119
+msgid "Add New Listing Category"
+msgstr ""
+
+#: includes/core.php:120
+msgid "New Listing Category Name"
+msgstr ""
+
+#: includes/core.php:121
+msgid "Add or remove listing categories"
+msgstr ""
+
+#: includes/core.php:143
+msgid "Listing Tags"
+msgstr ""
+
+#: includes/core.php:144
+msgid "Listing Tag"
+msgstr ""
+
+#: includes/core.php:145
+msgid "Search Listing Tags"
+msgstr ""
+
+#: includes/core.php:146
+msgid "Popular Listing Tags"
+msgstr ""
+
+#: includes/core.php:147
+msgid "All Listing Tags"
+msgstr ""
+
+#: includes/core.php:148
+msgid "Parent Listing Tag"
+msgstr ""
+
+#: includes/core.php:149
+msgid "Parent Listing Tag:"
+msgstr ""
+
+#: includes/core.php:150
+msgid "Edit Listing Tag"
+msgstr ""
+
+#: includes/core.php:151
+msgid "Update Listing Tag"
+msgstr ""
+
+#: includes/core.php:152
+msgid "Add New Listing Tag"
+msgstr ""
+
+#: includes/core.php:153
+msgid "New Listing Tag Name"
+msgstr ""
+
+#: includes/core.php:154
+msgid "Separate listing tags with commas"
+msgstr ""
+
+#: includes/core.php:155
+msgid "Add or remove listing tags"
+msgstr ""
+
+#: includes/core.php:156
+msgid "Choose from the most used listing tags"
+msgstr ""
+
+#: includes/core.php:256
+msgid "Header Menu"
+msgstr ""
+
+#: includes/core.php:257
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/core.php:260
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/core.php:260
+msgid ""
+"The sidebar appearing on all pages except search, pages, and the single "
+"listing page"
+msgstr ""
+
+#: includes/core.php:261
+msgid "Listing Search Sidebar"
+msgstr ""
+
+#: includes/core.php:261
+msgid "The sidebar for the Listing search page"
+msgstr ""
+
+#: includes/core.php:262
+msgid "Single Listing Sidebar"
+msgstr ""
+
+#: includes/core.php:262
+msgid "The sidebar for single Listing page"
+msgstr ""
+
+#: includes/core.php:263
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/core.php:263
+msgid "The sidebar for pages"
+msgstr ""
+
+#: includes/core.php:264
+msgid "Dashboard Sidebar"
+msgstr ""
+
+#: includes/core.php:264
+msgid "The sidebar for dashboard"
+msgstr ""
+
+#: includes/core.php:265
+msgid "Create Listing Sidebar"
+msgstr ""
+
+#: includes/core.php:265
+msgid "The sidebar for create Listing pages"
+msgstr ""
+
+#: includes/core.php:266
+msgid "Edit Listing Sidebar"
+msgstr ""
+
+#: includes/core.php:266
+msgid "The sidebar for the edit Listing page"
+msgstr ""
+
+#: includes/core.php:268
+msgid "An optional widget area for your site header"
+msgstr ""
+
+#: includes/core.php:269
+msgid "Footer"
+msgstr ""
+
+#: includes/core.php:269
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: includes/core.php:271
+msgid "Listings Pages Ad"
+msgstr ""
+
+#: includes/core.php:271
+msgid "An optional widget area for your ads on listings pages"
+msgstr ""
+
+#: includes/core.php:274
+msgid "List Page Top Sidebar"
+msgstr ""
+
+#: includes/core.php:274
+msgid "An optional widget are for a large map for listings/events list pages"
+msgstr ""
+
+#: includes/core.php:470
+msgid "Blue"
+msgstr ""
+
+#: includes/core.php:471
+msgid "Red"
+msgstr ""
+
+#: includes/core.php:472
+msgid "Orange"
+msgstr ""
+
+#: includes/core.php:473
+msgid "Green"
+msgstr ""
+
+#: includes/core.php:474
+msgid "Navy Blue"
+msgstr ""
+
+#: includes/core.php:475
+msgid "Purple"
+msgstr ""
+
+#: includes/core.php:476
+msgid "Pink"
+msgstr ""
+
+#: includes/core.php:477
+msgid "Dark Gray"
+msgstr ""
+
+#: includes/core.php:500
+msgid ""
+"Disable sending \"Pending Listing..\" notification emails for this import?:"
+msgstr ""
+
+#: includes/core.php:510
+msgid "Geocode imported listings?:"
+msgstr ""
+
+#: includes/core.php:512 includes/events/admin/importer.php:57
+msgid "(Note: Maximum of 2500 geocode requests per day are allowed)"
+msgstr ""
+
+#: includes/core.php:669 includes/events/load.php:398
+msgid " (add %s)"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:14
+msgid "Custom Form"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:16
+msgid "Add New Custom Form"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:17
+msgid "Edit Form"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:18
+msgid "New Form"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:19
+msgid "View Forms"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:20
+msgid "Search Forms"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:21
+msgid "No forms found"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:22
+msgid "No forms found in Trash"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:47
+msgid "Form Builder"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:57
+msgid "Save"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:58
+msgid "Add New Field..."
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:59
+#: includes/custom-forms/form-builder.php:65
+msgid "Text Field"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:61
+msgid "Text Area"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:62
+msgid "Checkboxes"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:63
+msgid "Radio"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:64
+msgid "Select List"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:66
+msgid "File Upload"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:67
+msgid "Allowed Extensions"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:68
+msgid "(comma separated. i.e: pdf, doc)"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:69
+msgid "Label"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:70
+msgid "Text Area Field"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:71
+msgid "Select Options"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:72
+msgid "Add"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:73
+msgid "Checkbox Group"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:74
+msgid "Are you sure you want to remove this element?"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:75
+msgid "Remove"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:76
+msgid "Radio Group"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:77
+msgid "Allow Multiple Selections"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:78
+msgid "Hide"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:79
+msgid "Required"
+msgstr ""
+
+#: includes/custom-forms/form-builder.php:80
+msgid "Show"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:191
+msgid "Select Category"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:227
+#: includes/custom-post-type-helper.php:238
+msgid ""
+"Contact Form submission error. Please try refreshing the page and submitting "
+"the contact form again."
+msgstr ""
+
+#: includes/custom-post-type-helper.php:268
+msgid "%1$s %2$s Contact Form Submission:"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:269
+msgid "Someone is contacting you regarding your %s: %s"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:270
+#: includes/custom-post-type-helper.php:297
+msgid "Name: %s"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:271
+#: includes/custom-post-type-helper.php:303
+msgid "Email: %s"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:272
+msgid "Phone: %s"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:273
+#: includes/custom-post-type-helper.php:306
+msgid "Website: %s"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:274
+#: includes/custom-post-type-helper.php:300
+msgid "Message: %s"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:281
+msgid "[%s] Contact Form Submission - %s"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:286
+msgid "Your message was successfully sent!"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:361
+msgid "Contact %s Owner"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:362
+msgid "Contact the %s Owner"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:363
+msgid ""
+"To inquire about this %1$s, complete the form below to send a message to the "
+"%1$s owner."
+msgstr ""
+
+#: includes/custom-post-type-helper.php:364
+msgid "Send Inquiry"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:382 includes/events/comments.php:323
+msgid "Name"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:383 includes/events/comments.php:325
+msgid "Email"
+msgstr ""
+
+#: includes/custom-post-type-helper.php:387
+#: includes/payments/admin/order-single.php:394
+msgid "Message"
+msgstr ""
+
+#: includes/customizer.php:22
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/customizer.php:97
+msgid "Count Listings in Category"
+msgstr ""
+
+#: includes/customizer.php:110
+msgid "Hide Empty Categories"
+msgstr ""
+
+#: includes/dashboard.php:23 includes/dashboard.php:152
+#: includes/reviews.php:475 single-listing.php:92
+msgid "Reviews"
+msgstr ""
+
+#: includes/dashboard.php:27 sidebar-dashboard.php:21
+msgid "Favorite Listings"
+msgstr ""
+
+#: includes/dashboard.php:88 includes/dashboard.php:112
+#: includes/dashboard.php:132 includes/events/dashboard.php:216
+#: includes/events/dashboard.php:236 includes/payments/order-class.php:401
+msgid "Pending"
+msgstr ""
+
+#: includes/dashboard.php:89
+msgid "Pending Claimed"
+msgstr ""
+
+#: includes/dashboard.php:90
+msgid "Active"
+msgstr ""
+
+#: includes/dashboard.php:91 includes/dashboard.php:136
+#: includes/events/dashboard.php:240
+msgid "Expired"
+msgstr ""
+
+#: includes/dashboard.php:108 includes/dashboard.php:128
+#: includes/events/dashboard.php:212 includes/events/dashboard.php:232
+msgid "Live"
+msgstr ""
+
+#: includes/dashboard.php:116 includes/dashboard.php:140
+#: includes/events/dashboard.php:220 includes/events/dashboard.php:244
+#: includes/payments/admin/order-single.php:75
+#: includes/payments/order-templates.php:312
+msgid "Total"
+msgstr ""
+
+#: includes/dashboard.php:313
+msgid "Listing Expired on: %s"
+msgstr ""
+
+#: includes/dashboard.php:315
+msgid "Upcoming Recurring Payment: %s"
+msgstr ""
+
+#: includes/dashboard.php:317
+msgid "Listing Expires on: %s"
+msgstr ""
+
+#: includes/emails.php:74 includes/emails.php:176 includes/emails.php:202
+#: includes/emails.php:231 includes/emails.php:260 includes/emails.php:292
+#: includes/emails.php:326 includes/emails.php:357
+#: includes/events/emails.php:44 includes/events/emails.php:63
+msgid "Hello %s,"
+msgstr ""
+
+#: includes/emails.php:75
+msgid "This email confirms that you have purchased the following listing:"
+msgstr ""
+
+#: includes/emails.php:77
+msgid "Order Summary:"
+msgstr ""
+
+#: includes/emails.php:82
+msgid "[%s] Receipt for your order"
+msgstr ""
+
+#: includes/emails.php:101
+msgid "[%1$s] Failed Order #%2$d"
+msgstr ""
+
+#: includes/emails.php:104
+msgid "Payment for the order #%s has failed."
+msgstr ""
+
+#: includes/emails.php:105
+msgid ""
+"Please <a href=\"%s\">review this order</a>, and if necessary disable "
+"assigned services."
+msgstr ""
+
+#: includes/emails.php:124
+msgid "A new listing is awaiting moderation: %s"
+msgstr ""
+
+#: includes/emails.php:129
+msgid "Review pending listings"
+msgstr ""
+
+#: includes/emails.php:133
+msgid "[%s] Pending Listing: \"%s\""
+msgstr ""
+
+#: includes/emails.php:149
+msgid "A new listing claim is awaiting moderation: %s"
+msgstr ""
+
+#: includes/emails.php:154
+msgid "Review pending claimed listings"
+msgstr ""
+
+#: includes/emails.php:158
+msgid "[%s] Pending Claimed Listing: \"%s\""
+msgstr ""
+
+#: includes/emails.php:179
+msgid "Your \"%s\" listing claim is awaiting approval."
+msgstr ""
+
+#: includes/emails.php:185
+msgid "[%s] Claimed Listing Pending: \"%s\""
+msgstr ""
+
+#: includes/emails.php:205
+msgid "Your \"%s\" listing has been approved."
+msgstr ""
+
+#: includes/emails.php:211
+msgid "[%s] Listing Approved: \"%s\""
+msgstr ""
+
+#: includes/emails.php:234
+msgid "Your \"%s\" listing claim has been approved."
+msgstr ""
+
+#: includes/emails.php:240
+msgid "[%s] Claimed Listing Approved: \"%s\""
+msgstr ""
+
+#: includes/emails.php:263
+msgid "Your \"%s\" listing claim has been denied."
+msgstr ""
+
+#: includes/emails.php:269
+msgid "[%s] Listing Claim Denied: \"%s\""
+msgstr ""
+
+#: includes/emails.php:295
+msgid ""
+"Your listing: \"%s\" has expired (it is not visible to the public anymore)."
+msgstr ""
+
+#: includes/emails.php:299
+msgid "Renew listing!"
+msgstr ""
+
+#: includes/emails.php:303
+msgid "[%s] Listing Expired: \"%s\""
+msgstr ""
+
+#: includes/emails.php:329
+msgid "Your upgrade: \"%s\" has expired for your listing: \"%s\"."
+msgstr ""
+
+#: includes/emails.php:334
+msgid "Upgrade listing!"
+msgstr ""
+
+#: includes/emails.php:338
+msgid "[%s] Listing Upgrade Expired for: \"%s\""
+msgstr ""
+
+#: includes/emails.php:360
+msgid ""
+"The most recent payment attempt for the subscription plan for listing: \"%s"
+"\" was not successful, either due to the payment gateway subscription period "
+"coming to completion or manual cancelation."
+msgstr ""
+
+#: includes/emails.php:365
+msgid "Your listing \"%1$s\" will expire on: %2$s"
+msgstr ""
+
+#: includes/emails.php:370
+msgid ""
+"After your Listing expires, you will receive an email with renewal details."
+msgstr ""
+
+#: includes/emails.php:374
+msgid "[%1$s] Subscription Ended - Listing: \"%2$s\""
+msgstr ""
+
+#: includes/events/admin/admin.php:125
+msgid "Event Attendees"
+msgstr ""
+
+#: includes/events/admin/admin.php:136 includes/events/widgets.php:326
+msgid "Recently Added Events"
+msgstr ""
+
+#: includes/events/admin/event-single.php:125
+msgid "Event Attachments"
+msgstr ""
+
+#: includes/events/admin/event-single.php:194 includes/events/load.php:331
+msgid "Event Days"
+msgstr ""
+
+#: includes/events/admin/event-single.php:261
+#: includes/events/template-tags.php:445
+#: includes/payments/admin/order-list.php:25
+#: includes/payments/admin/order-meta.php:153
+msgid "Date"
+msgstr ""
+
+#: includes/events/admin/event-single.php:262
+#: includes/events/template-tags.php:446
+msgid "Start Time"
+msgstr ""
+
+#: includes/events/admin/event-single.php:263
+#: includes/events/template-tags.php:447
+msgid "End Time"
+msgstr ""
+
+#: includes/events/admin/event-single.php:336
+#: includes/events/template-tags.php:522
+msgid "Add Day"
+msgstr ""
+
+#: includes/events/admin/event-single.php:458
+msgid "Comments Status"
+msgstr ""
+
+#: includes/events/admin/event-single.php:478
+msgid "Enable Comments to be submitted on this listing?"
+msgstr ""
+
+#: includes/events/admin/event-single.php:504
+msgid "You must approve this event before it can be published."
+msgstr ""
+
+#: includes/events/admin/event-single.php:522
+msgid "Rejecting an Event sends it to the trash."
+msgstr ""
+
+#: includes/events/admin/event-single.php:551
+msgid "Featured Information"
+msgstr ""
+
+#: includes/events/admin/importer.php:55
+msgid "Geocode imported events?:"
+msgstr ""
+
+#: includes/events/admin/pricing.php:38
+msgid "Events not Enabled"
+msgstr ""
+
+#: includes/events/admin/pricing.php:41
+msgid ""
+"Events are not currently enabled, go to the events settings to <a href=\"%s"
+"\">enable events</a> now."
+msgstr ""
+
+#: includes/events/admin/pricing.php:45
+msgid ""
+"Events are not currently enabled, you must first enable events on the events "
+"settings page."
+msgstr ""
+
+#: includes/events/admin/pricing.php:53
+msgid "Charge for Events not Enabled"
+msgstr ""
+
+#: includes/events/admin/pricing.php:56
+msgid ""
+"Charging for Events ia not currently enabled, go to the events settings to "
+"<a href=\"%s\">enable charging for events</a> now."
+msgstr ""
+
+#: includes/events/admin/pricing.php:60
+msgid ""
+"Charging for Events is not currently enabled, you must first enable \"Charge "
+"for Events\" on the events settings page."
+msgstr ""
+
+#: includes/events/admin/pricing.php:75
+msgid "The price you are charging for an event."
+msgstr ""
+
+#: includes/events/admin/pricing.php:78
+msgid "Enable Featured on Home"
+msgstr ""
+
+#: includes/events/admin/pricing.php:83
+msgid "Featured on Home - Price"
+msgstr ""
+
+#: includes/events/admin/pricing.php:89
+msgid "The price you are charging to feature an event on the home page."
+msgstr ""
+
+#: includes/events/admin/pricing.php:92
+msgid "Enable Featured on Category"
+msgstr ""
+
+#: includes/events/admin/pricing.php:97
+msgid "Featured on Category - Price"
+msgstr ""
+
+#: includes/events/admin/pricing.php:103
+msgid "The price you are charging to feature an event on category pages."
+msgstr ""
+
+#: includes/events/admin/pricing.php:112
+msgid ""
+"The maximum quantity of categories a user can choose to associate with their "
+"event."
+msgstr ""
+
+#: includes/events/admin/settings.php:57
+msgid "Enable Events"
+msgstr ""
+
+#: includes/events/admin/settings.php:62
+msgid "Should events functionality be enabled?"
+msgstr ""
+
+#: includes/events/admin/settings.php:71
+msgid "Charge for Events"
+msgstr ""
+
+#: includes/events/admin/settings.php:75
+msgid ""
+"Do you want to charge for creating an event on your site? You can manage "
+"your <a href=\"%s\">Payments Settings</a> in the Payments Menu."
+msgstr ""
+
+#: includes/events/admin/settings.php:78
+msgid "Moderate Events"
+msgstr ""
+
+#: includes/events/admin/settings.php:82
+msgid "Do you want to moderate new events before they are displayed live?"
+msgstr ""
+
+#: includes/events/admin/settings.php:85
+msgid "Event Expiration"
+msgstr ""
+
+#: includes/events/admin/settings.php:90
+msgid " days after event date. (0 = Does not expire after event date)"
+msgstr ""
+
+#: includes/events/admin/settings.php:91
+msgid ""
+"The amount of days after the event date after which the event will expire "
+"and be no longer publicly visible."
+msgstr ""
+
+#: includes/events/admin/settings.php:94
+msgid "Expired Events"
+msgstr ""
+
+#: includes/events/admin/settings.php:97
+msgid "Prune  <a href=\"%s\">Expired Events</a> now."
+msgstr ""
+
+#: includes/events/admin/settings.php:101
+msgid "Run expired events check."
+msgstr ""
+
+#: includes/events/admin/settings.php:115
+#: includes/events/admin/settings.php:132
+#: includes/events/admin/settings.php:161
+#: includes/events/admin/settings.php:177 includes/events/functions.php:392
+#: includes/template-tags.php:711
+msgid "Event Date"
+msgstr ""
+
+#: includes/events/admin/settings.php:116
+#: includes/events/admin/settings.php:133
+#: includes/events/admin/settings.php:162
+#: includes/events/admin/settings.php:178 includes/events/functions.php:391
+#: includes/template-tags.php:712
+msgid "Popular"
+msgstr ""
+
+#: includes/events/admin/settings.php:117
+#: includes/events/admin/settings.php:134
+#: includes/events/admin/settings.php:163
+#: includes/events/admin/settings.php:179 includes/template-tags.php:713
+msgid "Most Comments"
+msgstr ""
+
+#: includes/events/admin/settings.php:120
+#: includes/events/admin/settings.php:137
+#: includes/events/admin/settings.php:166
+#: includes/events/admin/settings.php:182 includes/template-tags.php:714
+msgid "Recently Discussed"
+msgstr ""
+
+#: includes/events/admin/settings.php:149
+msgid "Events Per Page"
+msgstr ""
+
+#: includes/events/admin/settings.php:153
+msgid "How many events per page do you want shown?"
+msgstr ""
+
+#: includes/events/admin/settings.php:156
+msgid "Default Event Sort Method"
+msgstr ""
+
+#: includes/events/admin/settings.php:169
+msgid "The default sorting method for event lists."
+msgstr ""
+
+#: includes/events/admin/settings.php:172
+msgid "Home Event Sort Method"
+msgstr ""
+
+#: includes/events/admin/settings.php:185
+msgid "The sorting method for events on the home page and the events home."
+msgstr ""
+
+#: includes/events/admin/settings.php:188
+msgid "Featured Event Sort Method"
+msgstr ""
+
+#: includes/events/admin/settings.php:196
+msgid "How do you want to sort the Featured events that are displayed?"
+msgstr ""
+
+#: includes/events/admin/settings.php:205
+msgid "Display ShareThis on event lists"
+msgstr ""
+
+#: includes/events/admin/settings.php:210
+msgid ""
+"If you have the <a href=\"%1$s\" target=\"_blank\">ShareThis</a> plugin "
+"instaled it will be only visible on single events. This option enables you "
+"to display it on the events list views also."
+msgstr ""
+
+#: includes/events/admin/settings.php:222
+msgid "Set your <a href=\"%s\">Pricing</a> settings in the Payments Menu."
+msgstr ""
+
+#: includes/events/admin/settings.php:226
+msgid "Manage Payments Settings including featured pricing and duration"
+msgstr ""
+
+#: includes/events/comments.php:189
+msgid "New comment on your event \"%s\""
+msgstr ""
+
+#. translators: 1: comment author, 2: author IP, 3: author domain
+#: includes/events/comments.php:191
+msgid "Commenter : %1$s (%3$s)"
+msgstr ""
+
+#: includes/events/comments.php:192 includes/events/comments.php:252
+#: includes/reviews.php:358 includes/reviews.php:422
+msgid "E-mail : %s"
+msgstr ""
+
+#: includes/events/comments.php:193 includes/events/comments.php:253
+#: includes/reviews.php:359 includes/reviews.php:423
+msgid "URL    : %s"
+msgstr ""
+
+#: includes/events/comments.php:195 includes/events/comments.php:255
+msgid "Comment: "
+msgstr ""
+
+#: includes/events/comments.php:196
+msgid "You can see all comments on this event here: "
+msgstr ""
+
+#. translators: 1: blog name, 2: post title
+#: includes/events/comments.php:198
+msgid "[%1$s] Comment: \"%2$s\""
+msgstr ""
+
+#: includes/events/comments.php:202 includes/reviews.php:368
+msgid "Permalink: %s"
+msgstr ""
+
+#: includes/events/comments.php:249
+msgid "A new comment on the event \"%s\" is waiting for your approval"
+msgstr ""
+
+#: includes/events/comments.php:251 includes/reviews.php:421
+msgid "Author : %1$s (IP: %2$s , %3$s)"
+msgstr ""
+
+#: includes/events/comments.php:254 includes/reviews.php:424
+msgid "Whois  : http://whois.arin.net/rest/ip/%s"
+msgstr ""
+
+#: includes/events/comments.php:257 includes/reviews.php:427
+msgid "Approve it: %s"
+msgstr ""
+
+#: includes/events/comments.php:259 includes/reviews.php:429
+msgid "Trash it: %s"
+msgstr ""
+
+#: includes/events/comments.php:261 includes/reviews.php:431
+msgid "Delete it: %s"
+msgstr ""
+
+#: includes/events/comments.php:262 includes/reviews.php:433
+msgid "Spam it: %s"
+msgstr ""
+
+#: includes/events/comments.php:264
+msgid ""
+"Currently %s event comment is waiting for approval. Please visit the "
+"moderation panel:"
+msgid_plural ""
+"Currently %s event comments are waiting for approval. Please visit the "
+"moderation panel:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/events/comments.php:268 includes/reviews.php:439
+msgid "[%1$s] Please moderate: \"%2$s\""
+msgstr ""
+
+#: includes/events/comments.php:300 single-event.php:111
+msgid "Comments"
+msgstr ""
+
+#: includes/events/comments.php:312
+msgid "Leave a Reply"
+msgstr ""
+
+#: includes/events/comments.php:313
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/events/comments.php:314
+msgid "Cancel Reply"
+msgstr ""
+
+#: includes/events/comments.php:315
+msgid "Submit comment"
+msgstr ""
+
+#: includes/events/comments.php:316
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: includes/events/comments.php:317
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: includes/events/comments.php:318
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: includes/events/comments.php:319
+msgid "Your email address will not be published."
+msgstr ""
+
+#: includes/events/comments.php:319
+msgid " (* denotes required field)"
+msgstr ""
+
+#: includes/events/comments.php:365 reviews-listing.php:26
+msgid "Member Since:"
+msgstr ""
+
+#: includes/events/comments.php:373 reviews-listing.php:30
+msgid "Reply"
+msgstr ""
+
+#: includes/events/comments.php:381
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/events/dashboard.php:158
+msgid "View Events"
+msgstr ""
+
+#: includes/events/dashboard.php:160 includes/events/dashboard.php:173
+msgid "Events Attending"
+msgstr ""
+
+#: includes/events/dashboard.php:162 includes/events/dashboard.php:175
+#: includes/events/dashboard.php:200
+msgid "Event Comments"
+msgstr ""
+
+#: includes/events/dashboard.php:165 includes/events/dashboard.php:177
+msgid "Favorite Events"
+msgstr ""
+
+#: includes/events/dashboard.php:264
+msgid "Event Expired on: %s"
+msgstr ""
+
+#: includes/events/dashboard.php:266
+msgid "Event Expires on: %s"
+msgstr ""
+
+#: includes/events/emails.php:25
+msgid "A new event is awaiting moderation: %s"
+msgstr ""
+
+#: includes/events/emails.php:30
+msgid "Review pending events"
+msgstr ""
+
+#: includes/events/emails.php:34
+msgid "[%s] Pending Event: \"%s\""
+msgstr ""
+
+#: includes/events/emails.php:47
+msgid "Your \"%s\" event has been approved."
+msgstr ""
+
+#: includes/events/emails.php:53
+msgid "[%s] Event Approved: \"%s\""
+msgstr ""
+
+#: includes/events/emails.php:66
+msgid ""
+"Your \"%s\" event has expired (it is not visible to the public anymore)."
+msgstr ""
+
+#: includes/events/emails.php:72
+msgid "[%s] Event Expired: \"%s\""
+msgstr ""
+
+#: includes/events/event-form.php:39 includes/listing-form.php:51
+msgid "Edit %s"
+msgstr ""
+
+#: includes/events/event-form.php:133
+msgid "Edit Event Information"
+msgstr ""
+
+#: includes/events/event-form.php:135 includes/listing-claim.php:106
+#: includes/listing-form.php:144 includes/listing-renew.php:100
+msgid "Next Step"
+msgstr ""
+
+#: includes/events/event-form.php:337 includes/listing-form.php:449
+msgid "No title was submitted."
+msgstr ""
+
+#: includes/events/event-form.php:367 includes/listing-claim.php:198
+#: includes/listing-form.php:475 includes/listing-renew.php:192
+msgid "No category was submitted."
+msgstr ""
+
+#: includes/events/event-form.php:485
+msgid "The event must have a title."
+msgstr ""
+
+#: includes/events/event-form.php:486 includes/listing-form.php:579
+msgid "The selected category does not exist."
+msgstr ""
+
+#: includes/events/event-purchase.php:184
+msgid " %s for only %s more."
+msgstr ""
+
+#: includes/events/event-purchase.php:196
+msgid " %s"
+msgstr ""
+
+#: includes/events/favorites.php:37 includes/favorites.php:48
+msgid "Added '%s' to your favorites."
+msgstr ""
+
+#: includes/events/favorites.php:40 includes/favorites.php:51
+msgid "Removed '%s' from your favorites."
+msgstr ""
+
+#: includes/events/favorites.php:46 includes/favorites.php:57
+msgid "Could not add '%s' to favorites at this time."
+msgstr ""
+
+#: includes/events/favorites.php:51
+msgid "You must <a href=\"%1$s\">login</a> to be able to favorite events."
+msgstr ""
+
+#: includes/events/favorites.php:116 includes/favorites.php:129
+msgid "Add to Favorites"
+msgstr ""
+
+#: includes/events/favorites.php:129 includes/favorites.php:142
+msgid "Delete Favorite"
+msgstr ""
+
+#: includes/events/functions.php:91
+msgid "Invalid Event Day Term"
+msgstr ""
+
+#: includes/events/load.php:93
+msgid "Regular Event"
+msgstr ""
+
+#: includes/events/load.php:171
+msgid "Single Event Sidebar"
+msgstr ""
+
+#: includes/events/load.php:171
+msgid "The sidebar for single Event page"
+msgstr ""
+
+#: includes/events/load.php:172
+msgid "Create Event Sidebar"
+msgstr ""
+
+#: includes/events/load.php:172
+msgid "The sidebar for create Event pages"
+msgstr ""
+
+#: includes/events/load.php:173
+msgid "Edit Event Sidebar"
+msgstr ""
+
+#: includes/events/load.php:173
+msgid "The sidebar for the edit Event page"
+msgstr ""
+
+#: includes/events/load.php:205 includes/events/load.php:378
+#: purchase-event-existing.php:11 purchase-event-new.php:12
+msgid "Event"
+msgstr ""
+
+#: includes/events/load.php:207
+msgid "Add New Event"
+msgstr ""
+
+#: includes/events/load.php:208 includes/events/template-tags.php:137
+msgid "Edit Event"
+msgstr ""
+
+#: includes/events/load.php:209
+msgid "New Event"
+msgstr ""
+
+#: includes/events/load.php:210
+msgid "View Event"
+msgstr ""
+
+#: includes/events/load.php:211
+msgid "Search Events"
+msgstr ""
+
+#: includes/events/load.php:212
+msgid "No events found"
+msgstr ""
+
+#: includes/events/load.php:213
+msgid "No events found in Trash"
+msgstr ""
+
+#: includes/events/load.php:214
+msgid "Parent Event:"
+msgstr ""
+
+#: includes/events/load.php:269
+msgid "Search Event Categories"
+msgstr ""
+
+#: includes/events/load.php:271
+msgid "Parent Event Category"
+msgstr ""
+
+#: includes/events/load.php:272
+msgid "Parent Event Category:"
+msgstr ""
+
+#: includes/events/load.php:273
+msgid "Edit Event Category"
+msgstr ""
+
+#: includes/events/load.php:274
+msgid "Update Event Category"
+msgstr ""
+
+#: includes/events/load.php:275
+msgid "Add New Event Category"
+msgstr ""
+
+#: includes/events/load.php:276
+msgid "New Event Category Name"
+msgstr ""
+
+#: includes/events/load.php:277
+msgid "Add or remove event categories"
+msgstr ""
+
+#: includes/events/load.php:299
+msgid "Event Tags"
+msgstr ""
+
+#: includes/events/load.php:300
+msgid "Event Tag"
+msgstr ""
+
+#: includes/events/load.php:301
+msgid "Search Event Tags"
+msgstr ""
+
+#: includes/events/load.php:302
+msgid "Popular Event Tags"
+msgstr ""
+
+#: includes/events/load.php:303
+msgid "All Event Tags"
+msgstr ""
+
+#: includes/events/load.php:304
+msgid "Parent Event Tag"
+msgstr ""
+
+#: includes/events/load.php:305
+msgid "Parent Event Tag:"
+msgstr ""
+
+#: includes/events/load.php:306
+msgid "Edit Event Tag"
+msgstr ""
+
+#: includes/events/load.php:307
+msgid "Update Event Tag"
+msgstr ""
+
+#: includes/events/load.php:308
+msgid "Add New Event Tag"
+msgstr ""
+
+#: includes/events/load.php:309
+msgid "New Event Tag Name"
+msgstr ""
+
+#: includes/events/load.php:310
+msgid "Separate event tags with commas"
+msgstr ""
+
+#: includes/events/load.php:311
+msgid "Add or remove event tags"
+msgstr ""
+
+#: includes/events/load.php:312
+msgid "Choose from the most used event tags"
+msgstr ""
+
+#: includes/events/load.php:332
+msgid "Event Day"
+msgstr ""
+
+#: includes/events/load.php:333
+msgid "Search Event Days"
+msgstr ""
+
+#: includes/events/load.php:334
+msgid "Popular Event Days"
+msgstr ""
+
+#: includes/events/load.php:335
+msgid "All Event Days"
+msgstr ""
+
+#: includes/events/load.php:336
+msgid "Parent Event Day"
+msgstr ""
+
+#: includes/events/load.php:337
+msgid "Parent Event Day:"
+msgstr ""
+
+#: includes/events/load.php:338
+msgid "Edit Event Day"
+msgstr ""
+
+#: includes/events/load.php:339
+msgid "Update Event Day"
+msgstr ""
+
+#: includes/events/load.php:340
+msgid "Add New Event Day"
+msgstr ""
+
+#: includes/events/load.php:341
+msgid "New Event Day Name"
+msgstr ""
+
+#: includes/events/load.php:342
+msgid "Separate event days with commas"
+msgstr ""
+
+#: includes/events/load.php:343
+msgid "Add or remove event days"
+msgstr ""
+
+#: includes/events/load.php:344
+msgid "Choose from the most used event days"
+msgstr ""
+
+#: includes/events/template-tags.php:37 includes/template-tags.php:50
+msgid "Tags: "
+msgstr ""
+
+#: includes/events/template-tags.php:61
+msgid "Categories: %s"
+msgstr ""
+
+#: includes/events/template-tags.php:172
+msgid "Upgrade Event"
+msgstr ""
+
+#: includes/events/template-tags.php:325
+msgid "Contact Event Organizer"
+msgstr ""
+
+#: includes/events/template-tags.php:326
+msgid "Contact the Event Organizer"
+msgstr ""
+
+#: includes/events/template-tags.php:327
+msgid ""
+"To inquire about this event, complete the form below to send a message to "
+"the event organizer."
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/events/views.php:152
+msgid "Create Event"
+msgstr ""
+
+#: includes/events/views.php:185
+msgid "You must first login or <a href=\"%s\">register</a> to Create an Event."
+msgstr ""
+
+#: includes/events/views.php:187
+msgid "You must first login to Create an Event."
+msgstr ""
+
+#: includes/events/views.php:229 includes/views.php:618
+msgid "Processing..."
+msgstr ""
+
+#: includes/events/views.php:230 includes/views.php:619 includes/views.php:849
+#: includes/views.php:1097
+msgid "You have exceeded the category selection quantity limit."
+msgstr ""
+
+#: includes/events/views.php:233 includes/views.php:622
+msgid "Please choose at least one category."
+msgstr ""
+
+#: includes/events/views.php:234
+msgid "Please choose at least one event date."
+msgstr ""
+
+#: includes/events/views.php:272 includes/views.php:659
+msgid "Uploaded file was too large, maximum file size is %s"
+msgstr ""
+
+#: includes/events/views.php:329
+msgid "You do not have permission to edit that event."
+msgstr ""
+
+#: includes/events/views.php:362 includes/views.php:749
+msgid "Edit \"%s\""
+msgstr ""
+
+#: includes/events/views.php:400
+msgid "You do not have permission to purchase that event."
+msgstr ""
+
+#: includes/events/views.php:433 includes/views.php:1005
+msgid "Purchase \"%s\""
+msgstr ""
+
+#: includes/events/views.php:489 includes/views.php:1402
+msgid ""
+"Your order has been successfully processed. It is currently pending and must "
+"be approved by an administrator."
+msgstr ""
+
+#: includes/events/views.php:491 includes/views.php:1404
+msgid "Your order has been successfully completed."
+msgstr ""
+
+#: includes/events/views.php:495
+msgid "The event has been successfully updated."
+msgstr ""
+
+#: includes/events/views.php:498
+msgid ""
+"This event is currently pending and must be approved by an administrator."
+msgstr ""
+
+#: includes/events/views.php:501
+msgid "This event is currently awaiting payment and/or payment processing."
+msgstr ""
+
+#: includes/events/widgets.php:20
+msgid ""
+"A widget showing the attendees for an event. Use in Single Event Sidebar."
+msgstr ""
+
+#: includes/events/widgets.php:23
+msgid "Vantage - Event Attendees"
+msgstr ""
+
+#: includes/events/widgets.php:59
+msgid "You are now attending!"
+msgstr ""
+
+#: includes/events/widgets.php:62
+msgid "Thanks, please attend again soon! :)"
+msgstr ""
+
+#: includes/events/widgets.php:68
+msgid "Could not modify your attendence to '%s' at this time."
+msgstr ""
+
+#: includes/events/widgets.php:73
+msgid "You must <a href=\"%1$s\">login</a> to be able to attend an event."
+msgstr ""
+
+#: includes/events/widgets.php:134
+msgid "Change my reservation"
+msgstr ""
+
+#: includes/events/widgets.php:134
+msgid "Yes, I want to attend!"
+msgstr ""
+
+#: includes/events/widgets.php:154
+msgid "Yes, I'm Attending"
+msgstr ""
+
+#: includes/events/widgets.php:154
+msgid "Are you attending?"
+msgstr ""
+
+#: includes/events/widgets.php:169
+msgid "There is no one Attending Yet"
+msgstr ""
+
+#: includes/events/widgets.php:183
+msgid "%d Person is Attending"
+msgid_plural "%d People are Attending"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/events/widgets.php:214
+msgid "See Who's Attending"
+msgstr ""
+
+#: includes/events/widgets.php:296
+msgid "The most recently added Events"
+msgstr ""
+
+#: includes/events/widgets.php:298
+msgid "Vantage - Recently Added Events"
+msgstr ""
+
+#: includes/events/widgets.php:379 includes/events/widgets.php:674
+#: includes/events/widgets.php:809
+msgid "Number of Events to show:"
+msgstr ""
+
+#: includes/events/widgets.php:393 includes/events/widgets.php:425
+msgid "Upcoming Events"
+msgstr ""
+
+#: includes/events/widgets.php:395
+msgid "Vantage - Upcoming Events"
+msgstr ""
+
+#: includes/events/widgets.php:527
+msgid "Maximum number of Events to show:"
+msgstr ""
+
+#: includes/events/widgets.php:530
+msgid "Include Events how many days away?"
+msgstr ""
+
+#: includes/events/widgets.php:544
+msgid "Similar Events. Use in Single Event Sidebar."
+msgstr ""
+
+#: includes/events/widgets.php:546
+msgid "Vantage - Similar Events"
+msgstr ""
+
+#: includes/events/widgets.php:576
+msgid "Similar Events"
+msgstr ""
+
+#: includes/events/widgets.php:688
+msgid "Popular Events. Use in Single Event Sidebar."
+msgstr ""
+
+#: includes/events/widgets.php:690
+msgid "Vantage - Popular Events"
+msgstr ""
+
+#: includes/events/widgets.php:720
+msgid "Popular Events"
+msgstr ""
+
+#: includes/events/widgets.php:823
+msgid "A button for creating a new event"
+msgstr ""
+
+#: includes/events/widgets.php:826
+msgid "Vantage - Create Event Button"
+msgstr ""
+
+#: includes/events/widgets.php:839
+msgid "Add an event now"
+msgstr ""
+
+#: includes/favorites.php:62
+msgid "You must <a href=\"%1$s\">login</a> to be able to favorite listings."
+msgstr ""
+
+#: includes/files.php:364
+msgid "gallery"
+msgstr ""
+
+#: includes/files.php:389
+msgid "attachment"
+msgstr ""
+
+#: includes/files.php:400
+msgid "Maximum %1$s uploads reached [max: %2$s]"
+msgstr ""
+
+#: includes/files.php:411
+msgid ""
+"Please make sure you are uploading a valid %1$s file type (uploaded file "
+"type: %2$s)"
+msgstr ""
+
+#: includes/files.php:474
+msgid "%s Attachments:"
+msgstr ""
+
+#: includes/files.php:515
+msgid "Delete File"
+msgstr ""
+
+#: includes/files.php:519 includes/images.php:250
+msgid "File Info:"
+msgstr ""
+
+#: includes/geo/admin/settings.php:31 includes/geo/admin/settings.php:32
+msgid "Geo Settings"
+msgstr ""
+
+#: includes/geo/admin/settings.php:50
+msgid "Installed Geocoders"
+msgstr ""
+
+#: includes/geo/admin/settings.php:53 includes/geo/admin/settings.php:95
+msgid "Geocoder"
+msgstr ""
+
+#: includes/geo/admin/settings.php:59
+#: includes/geo/geocoders/google-geocoder.php:189
+#: includes/geo/map-providers/google-maps.php:93
+msgid "Distance Unit"
+msgstr ""
+
+#: includes/geo/admin/settings.php:63
+#: includes/geo/geocoders/google-geocoder.php:193
+#: includes/geo/map-providers/google-maps.php:97
+msgid "Kilometers"
+msgstr ""
+
+#: includes/geo/admin/settings.php:64
+#: includes/geo/geocoders/google-geocoder.php:194
+#: includes/geo/map-providers/google-maps.php:98
+msgid "Miles"
+msgstr ""
+
+#: includes/geo/admin/settings.php:66
+#: includes/geo/geocoders/google-geocoder.php:196
+#: includes/geo/map-providers/google-maps.php:100
+msgid "Use Kilometers or Miles for your site's unit of measure for distances."
+msgstr ""
+
+#: includes/geo/admin/settings.php:69
+msgid "Default Standard Location Search Radius"
+msgstr ""
+
+#: includes/geo/admin/settings.php:73
+msgid ""
+"The default search radius used for a location based search. If you leave "
+"this blank, the radius will automatically be calculated based on the "
+"location query."
+msgstr ""
+
+#: includes/geo/admin/settings.php:95 includes/geo/admin/settings.php:138
+msgid ""
+"%1$s %2$s is missing a required settings value: %3$s, <a href=\"%4$s\">Click "
+"here to update settings.</a>"
+msgstr ""
+
+#: includes/geo/admin/settings.php:108
+msgid "Installed Map Providers"
+msgstr ""
+
+#: includes/geo/admin/settings.php:111 includes/geo/admin/settings.php:138
+#: includes/geo/map-providers/map-provider-functions.php:36
+msgid "Map Provider"
+msgstr ""
+
+#: includes/geo/admin/settings.php:151
+msgid "Example Map"
+msgstr ""
+
+#: includes/geo/admin/settings.php:180
+msgid ""
+"%1$s is missing a required settings value: %2$s, <a href=\"%3$s\">Click here "
+"to update settings.</a>"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:15
+#: includes/geo/geocoders/google-geocoder.php:16
+#: includes/geo/map-providers/google-maps.php:6
+#: includes/geo/map-providers/google-maps.php:7
+msgid "Google"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:23
+#: includes/geo/map-providers/google-maps.php:18
+msgid "Region"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:27
+#: includes/geo/geocoders/google-geocoder.php:181
+#: includes/geo/map-providers/google-maps.php:22
+#: includes/geo/map-providers/google-maps.php:85
+msgid "Language"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:31
+#: includes/geo/map-providers/google-maps.php:26
+msgid "Unit"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:170
+#: includes/geo/map-providers/google-maps.php:74
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:52
+#: includes/payments/gateways/paypal/paypal.php:127
+msgid "General Information"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:173
+#: includes/geo/map-providers/google-maps.php:77
+msgid "Region Biasing"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:174
+#: includes/geo/map-providers/google-maps.php:78
+msgid ""
+"Find your two-letter ccTLD region code <a href=\"%s\" target=\"_blank"
+"\">here</a>."
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:178
+#: includes/geo/map-providers/google-maps.php:82
+msgid ""
+"When a user enters 'Florence' in the location search field, you can let "
+"Google know that they probably meant 'Florence, Italy' rather than "
+"'Florence, Alabama'."
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:182
+#: includes/geo/map-providers/google-maps.php:86
+msgid ""
+"Find your two-letter language code <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:186
+#: includes/geo/map-providers/google-maps.php:90
+msgid ""
+"Used to let Google know to use this language in the formatting of addresses "
+"and for the map controls."
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:199
+#: includes/geo/map-providers/google-maps.php:103
+msgid "API Key"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:200
+#: includes/geo/map-providers/google-maps.php:104
+msgid ""
+"Instruction on how to <a href=\"%s\" target=\"_blank\">Obtain an API Key</a>."
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:203
+msgid ""
+"Enter your \"Geocoding API\" (Key for server apps) API key. This field is "
+"optional."
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:208
+msgid "Business Geocoding"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:211
+msgid "Client ID"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:212
+msgid "Client IDs begin with a \"gme-\" prefix."
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:215
+msgid ""
+"Your client ID identifies you as a Maps API for Business customer and "
+"enables support and purchased quota for your application."
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:218
+msgid "Private key"
+msgstr ""
+
+#: includes/geo/geocoders/google-geocoder.php:221
+msgid ""
+"Your cryptographic URL-signing key will be issued with your client ID and is "
+"a \"secret shared key\" between you and Google."
+msgstr ""
+
+#: includes/geo/map-providers/google-maps.php:67
+msgid ""
+"Could not get directions to given address. Please make your search more "
+"specific."
+msgstr ""
+
+#: includes/geo/map-providers/google-maps.php:107
+msgid ""
+"Enter your \"Google Maps JavaScript API v3\" (Key for browser apps) API key. "
+"This field is optional."
+msgstr ""
+
+#: includes/geo/map-providers/map-provider-functions.php:36
+msgid ""
+"%s %s is missing a required settings value: %s, <a href=\"%s\">Click here to "
+"update settings.</a>"
+msgstr ""
+
+#: includes/images.php:248
+msgid "Delete Image"
+msgstr ""
+
+#: includes/listing-claim.php:10
+msgid "Listing Claim"
+msgstr ""
+
+#: includes/listing-claim.php:33 includes/listing-claim.php:103
+msgid "Claim \"%s\""
+msgstr ""
+
+#: includes/listing-claim.php:70 includes/views.php:1046
+msgid "This listing is not claimable."
+msgstr ""
+
+#: includes/listing-claim.php:74
+msgid "This listing already belongs to you."
+msgstr ""
+
+#: includes/listing-claim.php:202 includes/listing-renew.php:196
+msgid "Too many categories were submitted."
+msgstr ""
+
+#: includes/listing-claim.php:336 includes/listing-purchase.php:87
+#: includes/listing-renew.php:306
+msgid "No plan was chosen."
+msgstr ""
+
+#: includes/listing-claim.php:342 includes/listing-purchase.php:93
+#: includes/listing-renew.php:312
+msgid "The plan you choose no longer exists."
+msgstr ""
+
+#: includes/listing-form.php:142
+msgid "Edit Listing Information"
+msgstr ""
+
+#: includes/listing-form.php:247
+msgid "%post_type%: %post_title% - %plan_title%"
+msgstr ""
+
+#: includes/listing-form.php:249
+msgid "%post_type%: %post_title%"
+msgstr ""
+
+#: includes/listing-form.php:578
+msgid "The listing must have a title."
+msgstr ""
+
+#: includes/listing-purchase.php:308
+msgid " %s is included in this plan for Unlimited days."
+msgstr ""
+
+#: includes/listing-purchase.php:311
+msgid " %s is included in this plan for %s day."
+msgid_plural " %s is included in this plan for %s days."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/listing-purchase.php:319
+msgid " %s for Unlimited days for only %s more."
+msgstr ""
+
+#: includes/listing-purchase.php:322
+msgid " %s for %d days for only %s more."
+msgstr ""
+
+#: includes/listing-purchase.php:385
+msgid " %s for Unlimited days"
+msgstr ""
+
+#: includes/listing-purchase.php:387
+msgid " %s until %s"
+msgstr ""
+
+#: includes/listing-purchase.php:506
+msgid "Automatically charge my account to renew my listing"
+msgstr ""
+
+#: includes/listing-purchase.php:514
+msgid "Do not automatically charge my account - I will renew manually"
+msgstr ""
+
+#: includes/listing-renew.php:10
+msgid "Listing Renewal"
+msgstr ""
+
+#: includes/listing-renew.php:35 includes/listing-renew.php:97
+#: includes/views.php:857
+msgid "Renew \"%s\""
+msgstr ""
+
+#: includes/listing-renew.php:70
+msgid "This listing does not need to be renewed."
+msgstr ""
+
+#. translators: weekday
+#: includes/locale.php:55 includes/locale.php:65 includes/locale.php:78
+#: includes/locale.php:87
+msgid "Sunday"
+msgstr ""
+
+#. translators: weekday
+#: includes/locale.php:56 includes/locale.php:66 includes/locale.php:79
+#: includes/locale.php:88
+msgid "Monday"
+msgstr ""
+
+#. translators: weekday
+#: includes/locale.php:57 includes/locale.php:67 includes/locale.php:80
+#: includes/locale.php:89
+msgid "Tuesday"
+msgstr ""
+
+#. translators: weekday
+#: includes/locale.php:58 includes/locale.php:68 includes/locale.php:81
+#: includes/locale.php:90
+msgid "Wednesday"
+msgstr ""
+
+#. translators: weekday
+#: includes/locale.php:59 includes/locale.php:69 includes/locale.php:82
+#: includes/locale.php:91
+msgid "Thursday"
+msgstr ""
+
+#. translators: weekday
+#: includes/locale.php:60 includes/locale.php:70 includes/locale.php:83
+#: includes/locale.php:92
+msgid "Friday"
+msgstr ""
+
+#. translators: weekday
+#: includes/locale.php:61 includes/locale.php:71 includes/locale.php:84
+#: includes/locale.php:93
+msgid "Saturday"
+msgstr ""
+
+#. translators: one-letter abbreviation of the weekday
+#: includes/locale.php:65
+msgid "S_Sunday_initial"
+msgstr ""
+
+#. translators: one-letter abbreviation of the weekday
+#: includes/locale.php:66
+msgid "M_Monday_initial"
+msgstr ""
+
+#. translators: one-letter abbreviation of the weekday
+#: includes/locale.php:67
+msgid "T_Tuesday_initial"
+msgstr ""
+
+#. translators: one-letter abbreviation of the weekday
+#: includes/locale.php:68
+msgid "W_Wednesday_initial"
+msgstr ""
+
+#. translators: one-letter abbreviation of the weekday
+#: includes/locale.php:69
+msgid "T_Thursday_initial"
+msgstr ""
+
+#. translators: one-letter abbreviation of the weekday
+#: includes/locale.php:70
+msgid "F_Friday_initial"
+msgstr ""
+
+#. translators: one-letter abbreviation of the weekday
+#: includes/locale.php:71
+msgid "S_Saturday_initial"
+msgstr ""
+
+#. translators: three-letter abbreviation of the weekday
+#: includes/locale.php:78
+msgid "Sun"
+msgstr ""
+
+#. translators: three-letter abbreviation of the weekday
+#: includes/locale.php:79
+msgid "Mon"
+msgstr ""
+
+#. translators: three-letter abbreviation of the weekday
+#: includes/locale.php:80
+msgid "Tue"
+msgstr ""
+
+#. translators: three-letter abbreviation of the weekday
+#: includes/locale.php:81
+msgid "Wed"
+msgstr ""
+
+#. translators: three-letter abbreviation of the weekday
+#: includes/locale.php:82
+msgid "Thu"
+msgstr ""
+
+#. translators: three-letter abbreviation of the weekday
+#: includes/locale.php:83
+msgid "Fri"
+msgstr ""
+
+#. translators: three-letter abbreviation of the weekday
+#: includes/locale.php:84
+msgid "Sat"
+msgstr ""
+
+#. translators: two-letter abbreviation of the weekday
+#: includes/locale.php:87
+msgid "Su"
+msgstr ""
+
+#. translators: two-letter abbreviation of the weekday
+#: includes/locale.php:88
+msgid "Mo"
+msgstr ""
+
+#. translators: two-letter abbreviation of the weekday
+#: includes/locale.php:89
+msgid "Tu"
+msgstr ""
+
+#. translators: two-letter abbreviation of the weekday
+#: includes/locale.php:90
+msgid "We"
+msgstr ""
+
+#. translators: two-letter abbreviation of the weekday
+#: includes/locale.php:91
+msgid "Th"
+msgstr ""
+
+#. translators: two-letter abbreviation of the weekday
+#: includes/locale.php:92
+msgid "Fr"
+msgstr ""
+
+#. translators: two-letter abbreviation of the weekday
+#: includes/locale.php:93
+msgid "Sa"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:96 includes/locale.php:111
+msgid "January"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:97 includes/locale.php:112
+msgid "February"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:98 includes/locale.php:113
+msgid "March"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:99 includes/locale.php:114
+msgid "April"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:100 includes/locale.php:115
+msgid "May"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:101 includes/locale.php:116
+msgid "June"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:102 includes/locale.php:117
+msgid "July"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:103 includes/locale.php:118
+msgid "August"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:104 includes/locale.php:119
+msgid "September"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:105 includes/locale.php:120
+msgid "October"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:106 includes/locale.php:121
+msgid "November"
+msgstr ""
+
+#. translators: month name
+#: includes/locale.php:107 includes/locale.php:122
+msgid "December"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:111
+msgid "Jan_January_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:112
+msgid "Feb_February_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:113
+msgid "Mar_March_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:114
+msgid "Apr_April_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:115
+msgid "May_May_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:116
+msgid "Jun_June_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:117
+msgid "Jul_July_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:118
+msgid "Aug_August_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:119
+msgid "Sep_September_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:120
+msgid "Oct_October_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:121
+msgid "Nov_November_abbreviation"
+msgstr ""
+
+#. translators: three-letter abbreviation of the month
+#: includes/locale.php:122
+msgid "Dec_December_abbreviation"
+msgstr ""
+
+#: includes/locale.php:129
+msgid "am"
+msgstr ""
+
+#: includes/locale.php:130
+msgid "pm"
+msgstr ""
+
+#: includes/locale.php:131
+msgid "AM"
+msgstr ""
+
+#: includes/locale.php:132
+msgid "PM"
+msgstr ""
+
+#: includes/payments/admin/admin.php:39
+#: includes/payments/order-functions.php:34
+#: includes/payments/order-functions.php:45
+msgid "Orders"
+msgstr ""
+
+#: includes/payments/admin/admin.php:39
+#: includes/payments/admin/order-meta.php:114
+msgid "Payments"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:23
+msgid "Item"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:26
+msgid "Payment"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:78
+msgid "Purchased %s item"
+msgid_plural "Purchased %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/admin/order-list.php:104
+#: includes/payments/admin/order-single.php:162
+msgid "Undecided"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:125
+msgid "Unpublished"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:128
+msgctxt "Order Date Format"
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: includes/payments/admin/order-list.php:137
+msgctxt "Order Date Format"
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/payments/admin/order-meta.php:72
+#: includes/payments/admin/order-meta.php:122
+msgid "Connected Orders"
+msgstr ""
+
+#: includes/payments/admin/order-meta.php:150
+msgid "Last 10 Orders"
+msgstr ""
+
+#: includes/payments/admin/order-meta.php:152
+#: includes/payments/admin/order-single.php:145
+msgid "Status"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:63 order-select.php:3
+#: order-summary.php:6
+msgid "Order Summary"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:65
+msgid "Affects"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:90
+msgid ""
+"This item could not be recognized. It might be from another theme or an "
+"uninstalled plugin."
+msgstr ""
+
+#: includes/payments/admin/order-single.php:119
+msgid "Order Status"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:141
+msgid "ID"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:149
+msgid "Gateway"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:168
+#: includes/payments/admin/settings.php:38
+msgid "Currency"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:176
+msgid "Recurs:"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:177
+msgid "Every %d %s"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:180
+msgid "Payment Date:"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:186
+msgid "Previously"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:209
+msgid "Order Author"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:271
+msgid "Order Actions"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:283
+#: includes/payments/gateways/bank-transfer/bt-admin.php:38
+msgid "Mark as Completed"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:284
+msgid "Mark as Failed"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:285
+msgid "Reset Gateway"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:289
+msgid "Reset Order"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:292
+msgid "Activate Order"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:295
+msgid "No actions available"
+msgstr ""
+
+#: includes/payments/admin/order-single.php:394
+msgid "Logged Date"
+msgstr ""
+
+#: includes/payments/admin/settings.php:35
+msgid "Regional"
+msgstr ""
+
+#: includes/payments/admin/settings.php:44
+msgid "Identifier"
+msgstr ""
+
+#: includes/payments/admin/settings.php:48
+msgid "Symbol (%s)"
+msgstr ""
+
+#: includes/payments/admin/settings.php:49
+msgid "Code (%s)"
+msgstr ""
+
+#: includes/payments/admin/settings.php:53
+msgid "Position"
+msgstr ""
+
+#: includes/payments/admin/settings.php:64
+msgid "Thousands Separator"
+msgstr ""
+
+#: includes/payments/admin/settings.php:67
+msgid "This sets the thousand separator of displayed prices."
+msgstr ""
+
+#: includes/payments/admin/settings.php:74
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/payments/admin/settings.php:77
+msgid "This sets the decimal separator of displayed prices."
+msgstr ""
+
+#: includes/payments/admin/settings.php:84
+msgid "Tax Charge"
+msgstr ""
+
+#: includes/payments/admin/settings.php:87
+msgid "%"
+msgstr ""
+
+#: includes/payments/admin/settings.php:97
+msgid "Installed Gateways"
+msgstr ""
+
+#: includes/payments/admin/settings.php:118
+msgid ""
+"This gateway is currently <strong>disabled</strong>. Users cannot use it as "
+"a purchasing option. Go to the <a href=\"?page=app-payments-settings"
+"\">General</a> tab to enable it."
+msgstr ""
+
+#: includes/payments/admin/settings.php:172
+msgid "Enable"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:26
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:27
+#: includes/payments/gateways/bank-transfer/bt-admin.php:10
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:16
+msgid "Bank Transfer"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:41
+msgid "Transfer Information"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-admin.php:33
+msgid ""
+"You must mark this transfer as completed before the purchase can proceed."
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:11
+msgid ""
+"A new order is waiting to be processed. Once you recieve payment, you should "
+"mark the order as completed."
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:13
+msgid "Review this order"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:17
+msgid "review all pending orders"
+msgstr ""
+
+#. translators: <Single Order Link> or <Link to All Orders>
+#: includes/payments/gateways/bank-transfer/bt-emails.php:20
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:24
+msgid "[%1$s] Pending Order #%2$d"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:19
+msgid "Instructions:"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:26
+msgid "Order Information:"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:29
+msgid "Order ID:"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:30
+msgid "Order Total:"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:33
+msgid "For questions or problems, please contact us directly at"
+msgstr ""
+
+#: includes/payments/gateways/bank-transfer/template/order-bank-transfer.php:36
+msgid ""
+"To cancel this request and use a regular gateway instead, <a href=\"%s"
+"\">click here</a>."
+msgstr ""
+
+#: includes/payments/gateways/boomerang-class.php:52
+msgid "You are now being redirected."
+msgstr ""
+
+#: includes/payments/gateways/gateway-class.php:75
+msgid "This gateway has not implemented a recurring order processor."
+msgstr ""
+
+#: includes/payments/gateways/gateway-functions.php:98
+msgid "No payment gateways are available."
+msgstr ""
+
+#: includes/payments/gateways/gateway-functions.php:99
+msgid " (disabled)"
+msgstr ""
+
+#: includes/payments/gateways/gateway-functions.php:100
+msgid "Note: Disabled gateways are only available to administrators."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal-form.php:64 order-summary.php:21
+msgid "Continue to %s"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal-form.php:134
+msgid "Your Order is still being processed. Please wait a few seconds..."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal-form.php:135
+msgid ""
+"If your Order does not complete soon, please contact us and refer to your "
+"Order ID - #%d."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:39
+#: includes/payments/gateways/paypal/paypal.php:40
+msgid "PayPal"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:76
+msgid ""
+"PayPal has responded to your transaction as invalid. Please contact site "
+"owner."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:106
+msgid "You are now being redirected to PayPal."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:130
+msgid "PayPal Email"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:131
+msgid ""
+"Enter your PayPal account email address. This is where your money gets sent."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:137
+msgid "Business/Premier Account"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:138
+msgid "This account is a Premier/Business Account"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:139
+msgid ""
+"A premier/business account is required for allowing customers to process "
+"recurring payments via PayPal"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:144
+msgid "Sandbox Mode"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:145
+msgid ""
+"You must have a <a target='_new' href='%s'>PayPal Sandbox</a> account setup "
+"before using this feature."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:146
+msgid ""
+"By default PayPal is set to live mode. If you would like to test and see if "
+"payments are being processed correctly, check this box to switch to sandbox "
+"mode."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:154
+msgid "Payment Data Transfer (PDT)"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:157
+msgid "Enable PDT"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:158
+msgid "See our <a href=\"%s\">tutorial</a> on enabling Payment Data Transfer."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:163
+msgid "Identity Token"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:171
+msgid "Instant Payment Notification (IPN)"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:174
+msgid "Enable IPN"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:175
+msgid ""
+"If any of your payment plans use recurring payments, this option must be "
+"checked. PayPal will be unable to communicate with your site otherwise."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:178
+msgid ""
+"See our <a href=\"%s\">tutorial</a> on enabling Instant Payment "
+"Notifications."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:181
+msgid "Listener URL"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:190
+msgid "Notifications"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:193
+msgid "Notify me when  a payment is.."
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:197
+#: includes/payments/order-class.php:403
+msgid "Completed"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:198
+msgid "Reversed"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:199
+msgid "Denied"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:200
+#: includes/payments/order-class.php:402
+msgid "Failed"
+msgstr ""
+
+#: includes/payments/gateways/paypal/paypal.php:201
+msgid "Voided"
+msgstr ""
+
+#: includes/payments/order-class.php:404
+msgid "Activated"
+msgstr ""
+
+#: includes/payments/order-draft-class.php:46
+#: includes/payments/order-factory.php:23
+msgid "Transaction"
+msgstr ""
+
+#: includes/payments/order-factory.php:27
+msgid "Transaction Data"
+msgstr ""
+
+#: includes/payments/order-functions.php:37
+msgid "Add New Order"
+msgstr ""
+
+#: includes/payments/order-functions.php:38
+msgid "Edit Order"
+msgstr ""
+
+#: includes/payments/order-functions.php:39
+msgid "New Order"
+msgstr ""
+
+#: includes/payments/order-functions.php:40
+msgid "View Order"
+msgstr ""
+
+#: includes/payments/order-functions.php:41
+msgid "Search Orders"
+msgstr ""
+
+#: includes/payments/order-functions.php:42
+msgid "No orders found"
+msgstr ""
+
+#: includes/payments/order-functions.php:43
+msgid "No orders found in Trash"
+msgstr ""
+
+#: includes/payments/order-functions.php:44
+msgid "Parent Order:"
+msgstr ""
+
+#: includes/payments/order-functions.php:57
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:58
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:59
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:60
+msgid "Activated <span class=\"count\">(%s)</span>"
+msgid_plural "Activated <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:91
+msgid "Regional Taxes"
+msgstr ""
+
+#: includes/payments/order-functions.php:254
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:258
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:262
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:267
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/utils/currencies.php:30
+msgid "US Dollars"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:34
+msgid "Euros"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:38
+msgid "Pounds Sterling"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:42
+msgid "Australian Dollars"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:46
+msgid "Brazilian Real"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:50
+msgid "Canadian Dollars"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:54
+msgid "Czech Koruna"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:58
+msgid "Danish Krone"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:62
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:66
+msgid "Hungarian Forint"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:70
+msgid "Israeli Shekel"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:74
+msgid "Japanese Yen"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:78
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:82
+msgid "Mexican Peso"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:86
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:90
+msgid "Norwegian Krone"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:94
+msgid "Philippine Pesos"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:98
+msgid "Polish Zloty"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:102
+msgid "Russian Ruble"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:106
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:110
+msgid "Swedish Krona"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:114
+msgid "Swiss Franc"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:118
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:122
+msgid "Thai Baht"
+msgstr ""
+
+#: includes/payments/utils/currencies.php:126
+msgid "Turkish Lira"
+msgstr ""
+
+#: includes/payments.php:17 includes/payments.php:18 includes/payments.php:28
+msgid "Plans"
+msgstr ""
+
+#: includes/payments.php:20
+msgid "Add New Plan"
+msgstr ""
+
+#: includes/payments.php:21
+msgid "Edit Plan"
+msgstr ""
+
+#: includes/payments.php:22
+msgid "New Plan"
+msgstr ""
+
+#: includes/payments.php:23
+msgid "View Plan"
+msgstr ""
+
+#: includes/payments.php:24
+msgid "Search Plans"
+msgstr ""
+
+#: includes/payments.php:25
+msgid "No Plans found"
+msgstr ""
+
+#: includes/payments.php:26
+msgid "No Plans found in Trash"
+msgstr ""
+
+#: includes/payments.php:27
+msgid "Parent Plan:"
+msgstr ""
+
+#: includes/reviews.php:31
+msgid "You already posted a review for this listing."
+msgstr ""
+
+#: includes/reviews.php:35
+msgid "You forgot to choose a rating."
+msgstr ""
+
+#: includes/reviews.php:43
+msgid "Unregistered users cannot reply to reviews."
+msgstr ""
+
+#: includes/reviews.php:50
+msgid "Only the business owner can reply to the review."
+msgstr ""
+
+#: includes/reviews.php:355
+msgid "New review on your listing \"%s\""
+msgstr ""
+
+#. translators: 1: comment author, 2: author IP, 3: author domain
+#: includes/reviews.php:357
+msgid "Reviewer : %1$s (%3$s)"
+msgstr ""
+
+#: includes/reviews.php:361 includes/reviews.php:425
+msgid "Review: "
+msgstr ""
+
+#: includes/reviews.php:362
+msgid "You can see all reviews on this listing here: "
+msgstr ""
+
+#. translators: 1: blog name, 2: post title
+#: includes/reviews.php:364
+msgid "[%1$s] Review: \"%2$s\""
+msgstr ""
+
+#: includes/reviews.php:419
+msgid "A new review on the listing \"%s\" is waiting for your approval"
+msgstr ""
+
+#: includes/reviews.php:435
+msgid ""
+"Currently %s review is waiting for approval. Please visit the moderation "
+"panel:"
+msgid_plural ""
+"Currently %s reviews are waiting for approval. Please visit the moderation "
+"panel:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/template-tags.php:21
+msgid "1 review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/template-tags.php:80
+msgid "Listed in %s"
+msgstr ""
+
+#: includes/template-tags.php:173
+msgid "%1$s | %2$s %3$s"
+msgstr ""
+
+#: includes/template-tags.php:249
+msgid "Renew Listing"
+msgstr ""
+
+#: includes/template-tags.php:279
+msgid "Claim Listing"
+msgstr ""
+
+#: includes/template-tags.php:355
+msgid "Upgrade Listing"
+msgstr ""
+
+#: includes/template-tags.php:473
+msgid "km"
+msgstr ""
+
+#: includes/template-tags.php:473
+msgid "miles"
+msgstr ""
+
+#: includes/template-tags.php:532
+msgid "Navigation"
+msgstr ""
+
+#: includes/template-tags.php:560
+msgid "Posts by %s"
+msgstr ""
+
+#: includes/template-tags.php:700
+msgid "Closest"
+msgstr ""
+
+#: includes/template-tags.php:765
+msgid "Sort Method"
+msgstr ""
+
+#: includes/utils.php:104
+msgid "just now"
+msgstr ""
+
+#: includes/utils.php:106
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/utils.php:109
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/utils.php:112
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/utils.php:115
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/utils.php:118
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/utils.php:121
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/utils.php:124
+msgid "%d year ago"
+msgid_plural "%d years ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/utils.php:335
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/views.php:43
+msgid "Blog"
+msgstr ""
+
+#: includes/views.php:402
+msgid "There was an error. Please try again."
+msgstr ""
+
+#: includes/views.php:413
+msgid "Cannot delete review, it belongs to another user."
+msgstr ""
+
+#: includes/views.php:533
+msgid "Review deleted."
+msgstr ""
+
+#. #-#-#-#-#  vantage.pot (Vantage 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/views.php:543
+msgid "Create Listing"
+msgstr ""
+
+#: includes/views.php:576
+msgid ""
+"You must first login or <a href=\"%s\">register</a> to Create a Listing."
+msgstr ""
+
+#: includes/views.php:578
+msgid "You must first login to Create a Listing."
+msgstr ""
+
+#: includes/views.php:711
+msgid "You do not have permission to edit that listing."
+msgstr ""
+
+#: includes/views.php:790
+msgid "Please <a href=\"%s\">login</a> to renew that listing."
+msgstr ""
+
+#: includes/views.php:792
+msgid "You do not have permission to renew that listing."
+msgstr ""
+
+#: includes/views.php:958
+msgid "Please <a href=\"%s\">login</a> to purchase/upgrade that listing."
+msgstr ""
+
+#: includes/views.php:960
+msgid "You do not have permission to purchase that listing."
+msgstr ""
+
+#: includes/views.php:1304
+msgid "Mark All as Claimable?:"
+msgstr ""
+
+#: includes/views.php:1348
+msgid "bad"
+msgstr ""
+
+#: includes/views.php:1349
+msgid "poor"
+msgstr ""
+
+#: includes/views.php:1350
+msgid "regular"
+msgstr ""
+
+#: includes/views.php:1351
+msgid "good"
+msgstr ""
+
+#: includes/views.php:1352
+msgid "excellent"
+msgstr ""
+
+#: includes/views.php:1407
+msgid "The listing has been successfully updated."
+msgstr ""
+
+#: includes/views.php:1409
+msgid ""
+"This listing is currently pending and must be approved by an administrator."
+msgstr ""
+
+#: includes/views.php:1411
+msgid "This listing is currently awaiting payment and/or payment processing."
+msgstr ""
+
+#: includes/views.php:1413
+msgid "This listing is expired."
+msgstr ""
+
+#: includes/widgets.php:18
+msgid "A button for creating a new listing"
+msgstr ""
+
+#: includes/widgets.php:21
+msgid "Vantage - Create Listing Button"
+msgstr ""
+
+#: includes/widgets.php:34
+msgid "Add a business now"
+msgstr ""
+
+#: includes/widgets.php:47
+msgid ""
+"A map containing the locations of multiple listings and/or events. Use in "
+"List Page Top Sidebar."
+msgstr ""
+
+#: includes/widgets.php:50
+msgid "Vantage - Multiple Listings/Events Map"
+msgstr ""
+
+#: includes/widgets.php:56
+msgid ""
+"The 'Vantage - Multiple Listing/Event Map' widget must only be used on the "
+"'List Page Top Sidebar'"
+msgstr ""
+
+#: includes/widgets.php:171
+msgid ""
+"A map containing the location of a single listing or event. Use in Single "
+"Listing or Single Event Sidebar."
+msgstr ""
+
+#: includes/widgets.php:174
+msgid "Vantage - Single Listing/Event Map"
+msgstr ""
+
+#: includes/widgets.php:182
+msgid ""
+"The 'Vantage - Single Listing/Event Map' widget must only be used on the "
+"'Single Listing Sidebar' or 'Single Event Sidebar'"
+msgstr ""
+
+#: includes/widgets.php:234
+msgid "Get Directions From: "
+msgstr ""
+
+#: includes/widgets.php:234
+msgid "city, country"
+msgstr ""
+
+#: includes/widgets.php:236
+msgid "Get Directions"
+msgstr ""
+
+#: includes/widgets.php:238
+msgid "Print Directions"
+msgstr ""
+
+#: includes/widgets.php:311
+msgid "Map Zoom:"
+msgstr ""
+
+#: includes/widgets.php:316
+msgid "Show driving directions"
+msgstr ""
+
+#: includes/widgets.php:331
+msgid "Related Listing Categories"
+msgstr ""
+
+#: includes/widgets.php:334
+msgid "Vantage - Related Categories"
+msgstr ""
+
+#: includes/widgets.php:442 includes/widgets.php:1000
+msgid "Show post counts"
+msgstr ""
+
+#: includes/widgets.php:456
+msgid "The most recent reviews"
+msgstr ""
+
+#: includes/widgets.php:458
+msgid "Vantage - Recent Reviews"
+msgstr ""
+
+#: includes/widgets.php:534
+msgid " Read More"
+msgstr ""
+
+#: includes/widgets.php:569
+msgid "Number of reviews to show:"
+msgstr ""
+
+#: includes/widgets.php:583
+msgid "The most recent listings"
+msgstr ""
+
+#: includes/widgets.php:585
+msgid "Vantage - Recent Listings"
+msgstr ""
+
+#: includes/widgets.php:666
+msgid "Number of listings to show:"
+msgstr ""
+
+#: includes/widgets.php:680
+msgid "A set of icons to link to many social networks"
+msgstr ""
+
+#: includes/widgets.php:683
+msgid "Vantage - Connect"
+msgstr ""
+
+#: includes/widgets.php:689
+msgid "Connect"
+msgstr ""
+
+#: includes/widgets.php:764
+msgid "Twitter URL:"
+msgstr ""
+
+#: includes/widgets.php:769
+msgid "Show Twitter Button?"
+msgstr ""
+
+#: includes/widgets.php:773
+msgid "Facebook URL:"
+msgstr ""
+
+#: includes/widgets.php:778
+msgid "Show Facebook Button?"
+msgstr ""
+
+#: includes/widgets.php:782
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: includes/widgets.php:787
+msgid "Show LinkedIn Button?"
+msgstr ""
+
+#: includes/widgets.php:791
+msgid "YouTube URL:"
+msgstr ""
+
+#: includes/widgets.php:796
+msgid "Show YouTube Button?"
+msgstr ""
+
+#: includes/widgets.php:800
+msgid "Google URL:"
+msgstr ""
+
+#: includes/widgets.php:805
+msgid "Show Google Button?"
+msgstr ""
+
+#: includes/widgets.php:809
+msgid "RSS URL:"
+msgstr ""
+
+#: includes/widgets.php:814
+msgid "Show RSS Button?"
+msgstr ""
+
+#: includes/widgets.php:830
+msgid ""
+"An HTML/text widget for placing a sidebar ad. Fits 250 pixel wide banner "
+"perfectly. "
+msgstr ""
+
+#: includes/widgets.php:833
+msgid "Vantage - Sidebar Ad"
+msgstr ""
+
+#: includes/widgets.php:878
+msgid ""
+"HTML/Text widget for 468x60 ad banner. Can be used in header and at bottom "
+"of listings pages (home page, search results, categories, etc)."
+msgstr ""
+
+#: includes/widgets.php:881
+msgid "Vantage - 468x60 ad banner"
+msgstr ""
+
+#: includes/widgets.php:926
+msgid "Popular Listing Categories"
+msgstr ""
+
+#: includes/widgets.php:929
+msgid "Vantage - Popular Categories"
+msgstr ""
+
+#: includes/widgets.php:995
+msgid "How Many Categories to Show?:"
+msgstr ""
+
+#: order-select.php:8
+msgid "Please select a method for processing your payment:"
+msgstr ""
+
+#: order-select.php:10
+msgid "Submit"
+msgstr ""
+
+#: order-summary.php:12
+msgid "Your order has been completed."
+msgstr ""
+
+#: purchase-event-existing.php:3 purchase-listing-existing-planless.php:3
+#: purchase-listing-existing.php:3
+msgid "Pricing Options"
+msgstr ""
+
+#: purchase-event-existing.php:17 purchase-event-new.php:28
+msgid "Featured Events are not available."
+msgstr ""
+
+#: purchase-event-existing.php:21 purchase-event-new.php:32
+msgid "Please choose featured options:"
+msgstr ""
+
+#: purchase-event-new.php:4
+msgid "Create an Event"
+msgstr ""
+
+#: purchase-event-new.php:17 purchase-event-new.php:21
+#: purchase-listing-existing-planless.php:21
+#: purchase-listing-existing-planless.php:25 purchase-listing-new.php:22
+#: purchase-listing-new.php:26
+msgid "Choose up to %d category"
+msgid_plural "Choose up to %d categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: purchase-event-new.php:19 purchase-listing-existing-planless.php:23
+#: purchase-listing-new.php:24
+msgid "Choose unlimited categories!"
+msgstr ""
+
+#: purchase-listing-existing-planless.php:32 purchase-listing-existing.php:53
+#: purchase-listing-new.php:33
+msgid "Featured Listings are not available for this price plan."
+msgstr ""
+
+#: purchase-listing-existing-planless.php:36 purchase-listing-new.php:37
+msgid "Please choose additional featured options:"
+msgstr ""
+
+#: purchase-listing-existing-planless.php:57 purchase-listing-existing.php:76
+#: purchase-listing-new.php:64
+msgid "for <br /> %1$s %2$s"
+msgstr ""
+
+#: purchase-listing-existing-planless.php:59 purchase-listing-existing.php:78
+#: purchase-listing-new.php:66
+msgid "Unlimited</br> days"
+msgstr ""
+
+#: purchase-listing-existing-planless.php:65 purchase-listing-new.php:72
+msgid "Choose this option"
+msgstr ""
+
+#: purchase-listing-existing-planless.php:72 purchase-listing-new.php:79
+msgid ""
+"No Plans are currently available for this category. Please come back later."
+msgstr ""
+
+#: purchase-listing-existing.php:13
+msgid "Active Subscription"
+msgstr ""
+
+#: purchase-listing-existing.php:19
+msgid "Included recurring featured options:"
+msgstr ""
+
+#: purchase-listing-existing.php:36
+msgid "every <br /> %1$s %2$s"
+msgstr ""
+
+#: purchase-listing-existing.php:41 purchase-listing-existing.php:84
+msgid "You chose this option"
+msgstr ""
+
+#: purchase-listing-existing.php:44
+msgid "Next payment: %s"
+msgstr ""
+
+#: purchase-listing-existing.php:55
+msgid "Please choose a feature option (none, one or multiple):"
+msgstr ""
+
+#: purchase-listing-new.php:4
+msgid "Select a Plan"
+msgstr ""
+
+#: purchase-listing-new.php:49
+msgid "Please choose a recurring payments option"
+msgstr ""
+
+#: purchase-listing-new.php:52
+msgid ""
+"* This plan includes recurring pricing. Your account will be automatically "
+"charged to renew your listing."
+msgstr ""
+
+#: renew-listing.php:15
+msgid "This listing \"%s\" has expired and will need to be renewed"
+msgstr ""
+
+#: renew-listing.php:17
+msgid ""
+"You may proceed with renewing this listing by clicking the continue button "
+"below."
+msgstr ""
+
+#: reviews-listing.php:50
+msgid "Response from %s on %s"
+msgstr ""
+
+#: sidebar-dashboard.php:16
+msgid "Welcome, "
+msgstr ""
+
+#: sidebar-dashboard.php:17
+msgid "Member Since: "
+msgstr ""
+
+#: sidebar-dashboard.php:23
+msgid "View Reviews"
+msgstr ""
+
+#: sidebar-dashboard.php:24
+msgid "View Listings"
+msgstr ""
+
+#: sidebar-dashboard.php:43
+msgid "Account Information"
+msgstr ""
+
+#: sidebar-dashboard.php:70
+msgid "Account Statistics"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Refine Search"
+msgstr ""
+
+#: sidebar.php:15
+msgid "Distance"
+msgstr ""
+
+#: sidebar.php:27
+msgid "Update"
+msgstr ""
+
+#: single-event.php:62
+msgid "Cost: %s"
+msgstr ""
+
+#: single-event.php:74 single-listing.php:54
+msgid "Follow:"
+msgstr ""
+
+#: single-event.php:103 single-listing.php:84
+msgid "Tags:"
+msgstr ""
+
+#: single-event.php:110 single-listing.php:91
+msgid "Overview"
+msgstr ""
+
+#: single-event.php:129
+msgid "Leave a Comment"
+msgstr ""
+
+#: single-listing.php:110
+msgid "Add Your Review"
+msgstr ""
+
+#: single-listing.php:117
+msgid "Your review is awaiting moderation."
+msgstr ""
+
+#: single-listing.php:121
+msgid "You have already reviewed this listing."
+msgstr ""
+
+#: single-listing.php:129
+msgid "You can't review your own listing."
+msgstr ""
+
+#: single-listing.php:136
+msgid ""
+"Please <a href=\"%1$s\">login</a> or <a href=\"%2$s\">register</a> to add "
+"your review."
+msgstr ""
+
+#: single-listing.php:141
+msgid "Reviews are closed."
+msgstr ""
+
+#: va-home.php:40
+msgid "Sorry there are no listings yet"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.appthemes.com/themes/vantage/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Premium Directory Theme For WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "AppThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.appthemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Listings and Events"
+msgstr ""
